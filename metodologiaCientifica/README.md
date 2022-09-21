@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Olá, seja bem-vindo. Sou o Gabriel Santos, estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
+Olá, seja bem-vindo. Sou o Gabriel Santos, 19 anos e estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
 
-Tenho 19 anos e trabalho como Web Analytics. <br/>
+Atualmente trabalho como Web Analytics em uma equipe de performance dentro de uma agência de marketing. As decisões são baseadas em dados que foram coletados e analisados após o processo de ETL, sendo movidos de maneira data-driven.<br/>
 
 <img src="https://user-images.githubusercontent.com/48994698/190278536-70fb9cac-daac-4ac2-ae46-cbdba49da90b.jpg" height="400" width="300"/>
 
@@ -15,11 +15,11 @@ Tenho 19 anos e trabalho como Web Analytics. <br/>
 
 #### JavaScript
 
-Na minha atuação como Web Analytics, me faz utilizar diariamente o mesmo para a resolução de problemas e criação de scripts. A utilização de Javascript no ambiente WEB, para diversas necessidas, um exemplo de necessidade é a Extração do dados e manipulação dos mesmos.
+Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de problemas e criação de scripts para soluções propias para determinada necessidade que a empresa venha a precisar. No ambiente WEB, o Javascript é utilizado em diversas pontas de acordo com as necessidades que apareça. Um exemplo é a utilização para Extração do dados, manipulações do DOM de páginas web e até mesmo a utilização de cookies para obtermos dados personalizados de determinado usuário.
 
 #### Python
 
-Utilizo para Web Scrapping e analise de dados durante meu cotidiano. Web scraping uma coleta de dados da web, de sites, onde são usados scripts e programas para “raspar” informações destes sites e que poderão ser usadas para futuras análises.
+A utilização de Python pode ser feita em todo processo do ETL (Extract, Transform e Load). Na parte de Extrack, podemos utilizar Web-Scraping para coleta de dados da web, de sites, onde são usados scripts e programas para “raspar”. Após o Transform, onde tratamos os dados, podemos utilizar os mesmos para realizarmos análises. Essas análises são transformadas em atitudes que beneficiaram a empresa, e da mesma forma podemos utilizar para realizar predições baseado nesses dados que já foram coletados.
 
 #### Projetos Integradores durante a graduação 
 Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Um projeto integrador tem o objetivo de solucionar um problema do mundo real, utilizando os conhecimentos adquiridos durante a graduação.<br/>
@@ -44,9 +44,9 @@ A MidAll nasceu para simplificar a jornada de evolução do seu negócio para o 
 --
 
 
-<img src="https://user-images.githubusercontent.com/56441318/160112708-193a18fe-2241-427c-8fe0-2dc23324b48a.png" height="500"/>
+<img src="###" height="500"/>
 
-##### *Figura 12. Orbit*
+##### *Figura 12. *
 
 ## Tecnologias utilizadas:
 - Java <br/>
