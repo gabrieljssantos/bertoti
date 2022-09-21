@@ -6,7 +6,7 @@ Olá, seja bem-vindo. Sou o Gabriel Santos, 19 anos e estudante de Banco de Dado
 
 Atualmente trabalho como Web Analytics em uma equipe de performance dentro de uma agência de marketing. As decisões são baseadas em dados que foram coletados e analisados após o processo de ETL, sendo movidos de maneira data-driven.<br/>
 
-<img src="https://user-images.githubusercontent.com/48994698/190278536-70fb9cac-daac-4ac2-ae46-cbdba49da90b.jpg" height="400" width="300"/>
+<img src="https://user-images.githubusercontent.com/48994698/190278536-70fb9cac-daac-4ac2-ae46-cbdba49da90b.jpg" height="450" width="350"/>
 
 
 ##### *Figura 00. Eu*
@@ -22,8 +22,9 @@ Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de
 A utilização de Python pode ser feita em todo processo do ETL (Extract, Transform e Load). Na parte de Extrack, podemos utilizar Web-Scraping para coleta de dados da web, de sites, onde são usados scripts e programas para “raspar”. Após o Transform, onde tratamos os dados, podemos utilizar os mesmos para realizarmos análises. Essas análises são transformadas em atitudes que beneficiaram a empresa, e da mesma forma podemos utilizar para realizar predições baseado nesses dados que já foram coletados.
 
 #### Projetos Integradores durante a graduação 
-Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Um projeto integrador tem o objetivo de solucionar um problema do mundo real, utilizando os conhecimentos adquiridos durante a graduação.<br/>
-Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta (e entregue), e os aprendizamos extraídos de cada um deles.
+Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Durante os semestres os grupos recebem a necessidade real de uma empresa, onde o representante da empresa nos explica o que precisam, afim de desenvolvermos a solução
+O processo é dividido em Sprints, e acontece aplicação de metodologias ágeis, como SCRUM e Kanban.
+O projeto é acompanhado pelo representante da empresa em reuniões periódicas, para se atualizar do desenvolvimento do projeto, e se cumpre os requisitos necessários que são desenvolvidos com os conhecimentos adquiridos durante o curso. Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta (e entregue), e os aprendizamos extraídos de cada um deles.
 
 
 # Projeto 3 - 3º semestre de 2022
@@ -38,15 +39,10 @@ A MidAll nasceu para simplificar a jornada de evolução do seu negócio para o 
 
 ### Visão do Projeto
 
---
---
---
---
+"Temos um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema." - MidAll.
 
+A ideia é criar um mini motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
 
-<img src="###" height="500"/>
-
-##### *Figura 12. *
 
 ## Tecnologias utilizadas:
 - Java <br/>
