@@ -1,2 +1,4 @@
-# bertoti
-4ºSem Banco de Dados - Fatec SJC
+# Repositório Aulas Bertoti
+
+Gabriel José Souza dos Santos
+4ºSemestre Banco de Dados - Noturno | Fatec SJC
