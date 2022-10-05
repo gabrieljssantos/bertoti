@@ -65,7 +65,7 @@ Interface para criação das promoções.
 - Documentações.
 
 #### Contribuições pessoais
--
+Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end. Minha contribuição no front-end esteve principalmente nas requisições http do projeto, realizando POSTs e GETs de acordo com as necessidades. 
 
 ## Aprendizados Efetivos HS
 - 
