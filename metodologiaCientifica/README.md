@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Olá, seja bem-vindo. Sou o Gabriel Santos, 19 anos e estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
+Olá, seja bem-vindo. Sou o Gabriel Santos, 20 anos e estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
 
 Atualmente trabalho como Web Analytics em uma equipe de performance dentro de uma agência de marketing. As decisões são baseadas em dados que foram coletados e analisados após o processo de ETL, sendo movidos de maneira data-driven.<br/>
 
@@ -14,11 +14,9 @@ Atualmente trabalho como Web Analytics em uma equipe de performance dentro de um
 ### Meus principais conhecimentos
 
 #### JavaScript
-
-Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de problemas e criação de scripts para soluções propias para determinada necessidade que a empresa venha a precisar. No ambiente WEB, o Javascript é utilizado em diversas pontas de acordo com as necessidades que apareça. Um exemplo é a utilização para Extração do dados, manipulações do DOM de páginas web e até mesmo a utilização de cookies para obtermos dados personalizados de determinado usuário.
+Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de problemas e criação de scripts para soluções propias para determinada necessidade que a empresa venha a precisar. No ambiente WEB, o Javascript é utilizado em diversas pontas de acordo com as necessidades que apareça. Um exemplo é a utilização para Extração do dados, manipulações do DOM em páginas web e até mesmo a utilização de cookies para obtermos dados personalizados de determinado usuário.
 
 #### Python
-
 A utilização de Python pode ser feita em todo processo do ETL (Extract, Transform e Load). Na parte de Extrack, podemos utilizar Web-Scraping para coleta de dados da web, de sites, onde são usados scripts e programas para “raspar”. Após o Transform, onde tratamos os dados, podemos utilizar os mesmos para realizarmos análises. Essas análises são transformadas em atitudes que beneficiaram a empresa, e da mesma forma podemos utilizar para realizar predições baseado nesses dados que já foram coletados.
 
 #### Projetos Integradores durante a graduação 
@@ -65,10 +63,22 @@ Interface para criação das promoções.
 - Documentações.
 
 #### Contribuições pessoais
-Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end. Minha contribuição no front-end esteve principalmente nas requisições http do projeto, realizando POSTs e GETs de acordo com as necessidades. 
+Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end. Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. A aplicação de User-Experience para conseguirmos facilitar a utilização dos usuarios, para que com poucos cliques possamos suprir a necessidade do cliente. E para isso tambem necessitamos de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
+Outra contribuição no front-end, foi principalmente nas requisições http do projeto, planejando o fluxo de dados entre: Back-End, Banco de dados e Front-End, realizando POSTs e GETs, por exemplo, de acordo com as necessidades. 
+
+No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
 
 ## Aprendizados Efetivos HS
-- 
+- Aplicacão Rest;
+- CRUD
+    .Create;
+    .Read;
+    .Update;
+    .Delete;
+- Criação de End-points;
+- User Interface (UI);
+- User Experience (UX);
+
 
 ## Contatos:
 
