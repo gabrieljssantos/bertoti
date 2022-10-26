@@ -63,18 +63,22 @@ Interface para criação das promoções.
 - Documentações.
 
 #### Contribuições pessoais
-Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end. Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. A aplicação de User-Experience para conseguirmos facilitar a utilização dos usuarios, para que com poucos cliques possamos suprir a necessidade do cliente. E para isso tambem necessitamos de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
+Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end.
+
+![image](https://user-images.githubusercontent.com/48994698/198152136-39481a0a-7d0f-4331-ab49-997bbf68680e.png)
+Criação do Modelo Conceitual/Lógico do projeto 
+
+Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. A aplicação de User-Experience para conseguirmos facilitar a utilização dos usuarios, para que com poucos cliques possamos suprir a necessidade do cliente. 
+
+Para que possamos facilitar a jornada do usuario em nosso projeto, necessitamos de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
+
 Outra contribuição no front-end, foi principalmente nas requisições http do projeto, planejando o fluxo de dados entre: Back-End, Banco de dados e Front-End, realizando POSTs e GETs, por exemplo, de acordo com as necessidades. 
 
 No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
 
 ## Aprendizados Efetivos HS
 - Aplicacão Rest;
-- CRUD
-    .Create;
-    .Read;
-    .Update;
-    .Delete;
+- CRUD  (Create, Read, Update, Delete)
 - Criação de End-points;
 - User Interface (UI);
 - User Experience (UX);
