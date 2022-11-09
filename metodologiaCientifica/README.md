@@ -74,15 +74,21 @@ Outra contribuição no front-end, foi principalmente nas requisições http do 
 No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
 
 ## Aprendizados Efetivos HS
-- Arquitetura Rest;<br>
--- A arquitetura REST permite realizar a comunicação, a mesma realiza e estabelece uma conexão TCP/IP com o servidor de destino, e envia uma requisição GET HTTP, com o endereço buscado. Sendo assim podemos trabalhar com requisições HTTP;
--- Criação de Endpoints;
+- #### Arquitetura Rest<br>
+A arquitetura REST permite realizar a comunicação, a mesma realiza e estabelece uma conexão TCP/IP com o servidor de destino, e envia uma requisição GET HTTP, com o endereço buscado. Sendo assim podemos trabalhar com requisições HTTP;
+Criação de Endpoints;
 
-- CRUD  (Create, Read, Update, Delete)<br>
+- #### C.R.U.D<br>
+ **Create:** Trata-se do conceito de criação, registro ou cadastro de informações e dados; <p> 
+ **Read:** É o ato de consultar os dados em determinado end-points;<p>
+ **Update:** Update é aplicado quando você, que é dono dos dados ou tem permissão para editá-los, atualiza as informações que julgar necessárias;<p>
+ **Delete:** Trata-se de uma ação de remoção de dados a partir do operador do sistema;<p>
 
-- User Interface (UI);<br>
+- #### User Interface (UI);<br>
+ **UI**, cuida da parte em que o usuário interage com um site (no caso do web design), layout. O UI, ou User Interface, é um termo comumente utilizado para explicar como serão feitas as interações entre pessoas e softwares ou aplicativos.
 
-- User Experience (UX);<br>
+- #### User Experience (UX);<br>
+ **UX**, trata-se do cuidado com a Experiencia do Usuario na plataforma, no caso a aplicação WEB. Com isso, pensamos na melhor forma do nosso usuario cliente utilizar nossa aplicação, que no final das contas é um produto para o mesmo.
 
 
 ## Contatos:
