@@ -62,11 +62,8 @@ Interface para criação das promoções.
 - Banco de Dados Relacional;
 - Documentações.
 
-#### Contribuições pessoais
+### Contribuições pessoais
 Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end.
-
-![image](https://user-images.githubusercontent.com/48994698/198152136-39481a0a-7d0f-4331-ab49-997bbf68680e.png)
-Criação do Modelo Conceitual/Lógico do projeto 
 
 Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. A aplicação de User-Experience para conseguirmos facilitar a utilização dos usuarios, para que com poucos cliques possamos suprir a necessidade do cliente. 
 
@@ -77,11 +74,15 @@ Outra contribuição no front-end, foi principalmente nas requisições http do 
 No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
 
 ## Aprendizados Efetivos HS
-- Aplicacão Rest;
-- CRUD  (Create, Read, Update, Delete)
-- Criação de End-points;
-- User Interface (UI);
-- User Experience (UX);
+- Arquitetura Rest;<br>
+-- A arquitetura REST permite realizar a comunicação, a mesma realiza e estabelece uma conexão TCP/IP com o servidor de destino, e envia uma requisição GET HTTP, com o endereço buscado. Sendo assim podemos trabalhar com requisições HTTP;
+-- Criação de Endpoints;
+
+- CRUD  (Create, Read, Update, Delete)<br>
+
+- User Interface (UI);<br>
+
+- User Experience (UX);<br>
 
 
 ## Contatos:
