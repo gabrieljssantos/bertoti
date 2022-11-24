@@ -85,10 +85,10 @@ Criação de Endpoints;
  **Delete:** Trata-se de uma ação de remoção de dados a partir do operador do sistema;<p>
 
 - #### User Interface (UI);<br>
- **UI**, cuida da parte em que o usuário interage com um site (no caso do web design), layout. O UI, ou User Interface, é um termo comumente utilizado para explicar como serão feitas as interações entre pessoas e softwares ou aplicativos.
+ **UI**, cuida da parte em que o usuário interage com um site (no caso do designda pagina), layout. O UI, ou User Interface, é um termo comumente utilizado para explicar como serão feitas as interações entre pessoas e softwares ou aplicativos. A escolha de um botão ou até mesmo a posição do mesmo, influencia totalmente na utilização do usuario e sua fluidez 
 
 - #### User Experience (UX);<br>
- **UX**, trata-se do cuidado com a Experiencia do Usuario na plataforma, no caso a aplicação WEB. Com isso, pensamos na melhor forma do nosso usuario cliente utilizar nossa aplicação, que no final das contas é um produto para o mesmo.
+ **UX**, trata-se do cuidado com a Experiencia do Usuario na plataforma, no caso a aplicação WEB. Com isso, pensamos na melhor forma do nosso usuario cliente utilizar nossa aplicação, que no final das contas é um produto para o mesmo. No cas, utilizando boas praticas de UX, vamos olhar para nossa aplicação de maneira que podemos simplificar seu uso. O usuario deve tomar o menor numero de ações possiveis para alcançar determinado objetivo
 
 
 ## Contatos:
