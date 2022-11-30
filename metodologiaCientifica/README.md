@@ -69,7 +69,11 @@ Minha realização no front-end esteve presente na criação de interfaces, apli
 
 Para que possamos facilitar a jornada do usuario em nosso projeto, necessitamos de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
 
-Outra contribuição no front-end, foi principalmente nas requisições http do projeto, planejando o fluxo de dados entre: Back-End, Banco de dados e Front-End, realizando POSTs e GETs, por exemplo, de acordo com as necessidades. 
+Outra contribuição no front-end, foi principalmente nas requisições http do projeto, planejando o fluxo de dados entre: Back-End, Banco de dados e Front-End, realizando POSTs e GETs, por exemplo, de acordo com as necessidades. <br>
+  <details>
+    <img src="https://user-images.githubusercontent.com/48994698/204924576-95362135-d8fe-40b5-ad44-5235263f6fbd.png" alt="UX Design - Exemplo" width="600"    height="400"> <br>
+    - No exemplo acima, foi utilizado AJAX para realizar o POST. Citando algum dos pontos mais importantes para essa Requisição POST, começando pela URL do EndPoint que será enviado o POST. O Endpoint é uma forma de comunicação, um nó de rede de comunicação. É uma interface exposta por uma parte comunicante ou por um canal de comunicaçã
+  </details>
 
 No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
 
