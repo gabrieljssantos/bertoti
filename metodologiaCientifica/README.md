@@ -74,12 +74,13 @@ Outra contribuição no front-end, foi principalmente nas requisições http do 
 No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
 
 ## Aprendizados Efetivos HS
+
+#### Arquitetura Rest<br>
 <details>
-  - #### Arquitetura Rest<br>
   A arquitetura REST permite realizar a comunicação, a mesma realiza e estabelece uma conexão TCP/IP com o servidor de destino, e envia uma requisição GET HTTP, com o endereço buscado. Sendo assim podemos trabalhar com requisições HTTP;
 </details>
 
-- #### C.R.U.D<br>
+#### C.R.U.D<br>
 <details>
    **Create:** Trata-se do conceito de criação, registro ou cadastro de informações e dados; <p> 
    **Read:** É o ato de consultar os dados em determinado end-points;<p>
@@ -87,14 +88,22 @@ No back-end, contriubui na criação e planejamento dos end-points,0 que foram u
    **Delete:** Trata-se de uma ação de remoção de dados a partir do operador do sistema;<p>
  </details>
 
-- #### User Interface (UI);<br>
+#### User Interface (UI);<br>
 <details>
  **UI**, cuida da parte em que o usuário interage com um site (no caso do designda pagina), layout. O UI, ou User Interface, é um termo comumente utilizado para explicar como serão feitas as interações entre pessoas e softwares ou aplicativos. A escolha de um botão ou até mesmo a posição do mesmo, influencia totalmente na utilização do usuario e sua fluidez 
  </details>
 
-- #### User Experience (UX);<br>
+#### User Experience (UX);<br>
 <details>
-   **UX**, trata-se do cuidado com a Experiencia do Usuario na plataforma, no caso a aplicação WEB. Com isso, pensamos na melhor forma do nosso usuario cliente utilizar nossa aplicação, que no final das contas é um produto para o mesmo. No cas, utilizando boas praticas de UX, vamos olhar para nossa aplicação de maneira que podemos simplificar seu uso. O usuario deve tomar o menor numero de ações possiveis para alcançar determinado objetivo
+   **UX**, trata-se do cuidado com a Experiencia do Usuario na plataforma, no caso a aplicação WEB. Com isso, pensamos na melhor forma do nosso usuario cliente utilizar nossa aplicação, que no final das contas é um produto para o mesmo. No cas, utilizando boas praticas de UX, vamos olhar para nossa aplicação de maneira que podemos simplificar seu uso. O usuario deve tomar o menor numero de ações possiveis para alcançar determinado objetivo <br><br>
+  
+  <img src="https://user-images.githubusercontent.com/48994698/204919725-c4b8a70e-98fb-4cde-b002-a8fe24720866.png" alt="UX Design - Exemplo" width="600" height="400"> <br><br>
+    - Na imagem acima podemos utilizar como exemplo para citar as boas pratica de UX-Design. Neste caso, podemos buscar a facilitação no percurso que o usuario percorre até chegar no seu objetivo. Quanto menos botões e redirecionamentos o usuário tiver que passar, mais facil chegará no objetivo. Boas praticas de UX-Design tambem são: <br>
+ <b> 1) </b> Testes <br>
+ <b> 2) </b> Mobile First <br> 
+ <b> 3) </b> Performance <br> 
+ <b> 5) </b> Cores <br>
+  
 </details>
 
 ## Contatos:
