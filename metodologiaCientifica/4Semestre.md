@@ -29,7 +29,7 @@ O projeto é acompanhado pelo representante da empresa em reuniões periódicas,
 ## Empresa parceira:
 Subiter
 
-<img src="###" height="150"/>
+<img src="https://user-images.githubusercontent.com/48994698/223570451-084859f1-d1f9-40e4-af26-64032c89ba10.png" height="150"/>
 
 ##### *Figura 11. Subiter (Fonte: https://www.subiter.com/)*
 
