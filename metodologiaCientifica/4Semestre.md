@@ -77,7 +77,21 @@ Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serv
 
 ### P.O<br>
 <details>
-  Lorem ipsum dolor sit amet, consectetur adip
+
+  **Conhecimento de negócios:** Compreensão do contexto em que o produto está inserido, os objetivos do negócio e a visão da empresa, a fim de alinhar as estratégias de produto com os objetivos de negócio. <br>
+
+  **Conhecimento de tecnologia**: Compreensão técnica básica para entender as capacidades e limitações da tecnologia utilizada na criação do produto, bem como para colaborar com a equipe técnica no planejamento e execução do desenvolvimento do produto.<br>
+
+  **Habilidade de gerenciamento de projetos**: Conhecimento em gerenciamento de projetos para garantir que o processo de desenvolvimento do produto esteja em conformidade com as melhores práticas, prazos e orçamentos estabelecidos.<br>
+
+  **Habilidade de comunicação**: Boa habilidade de comunicação, tanto para trabalhar com a equipe técnica, quanto para se comunicar com outras partes interessadas. Essa habilidade é fundamental para garantir que todas as partes estejam alinhadas com os objetivos do produto.<br>
+
+  **Liderança**: Habilidade de liderar e motivar a equipe, inspirando-os a trabalhar em direção a um objetivo comum.<br>
+
+  **Flexibilidade**: Capacidade de ser flexível e adaptável, pois a natureza do trabalho pode mudar rapidamente, exigindo que ele se adapte a novas demandas e prioridades.<br>
+
+  **Pensamento estratégico**: Habilidade de definir prioridades e tomar decisões que estejam alinhadas com a visão de negócios. Isso inclui a capacidade de planejar a longo prazo, bem como de antecipar e mitigar riscos.<br>
+
 </details>
 
 ### Comunicação<br>
