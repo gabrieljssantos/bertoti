@@ -94,19 +94,22 @@ Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serv
 
 </details>
 
-### Comunicação<br>
-<details>
-  Lorem ipsum dolor sit amet, consectetur adip
-</details>
 
 ### Scrum<br>
 <details>
-  Lorem ipsum dolor sit amet, consectetur adip
+
+  **Comunicação eficaz**: A metodologia Scrum incentiva a comunicação frequente e clara entre a equipe, o que pode melhorar a colaboração e o entendimento mútuo. Isso pode ajudar a resolver problemas de forma mais rápida e eficaz.
+
+  **Melhoria contínua**: A metodologia Scrum incentiva a busca contínua por melhorias no processo de desenvolvimento, o que pode levar a uma cultura de aprendizado e melhoria contínua dentro da equipe.
+
+  **Melhoria na eficiência**: A metodologia Scrum pode melhorar a eficiência do trabalho da equipe, pois as tarefas são divididas em pequenos ciclos, com entregas frequentes e reuniões regulares para avaliação do progresso.
+
+  **Melhoria na qualidade do produto**: Com a divisão de tarefas em pequenos ciclos, há uma maior atenção aos detalhes e a correção de problemas em estágios iniciais do desenvolvimento, o que pode resultar em um produto final de maior qualidade.
+
+  **Visibilidade do processo**: A metodologia Scrum permite que o progresso do projeto seja visualizado e monitorado de forma mais clara e transparente, o que ajuda a identificar problemas e ajustar o processo de desenvolvimento.
+
 </details>
 
-
-
 ## Contatos:
-
 - [LinkedIn;](https://www.linkedin.com/in/gabriel-santos-87922b170/)
 - [GitHub.](https://github.com/gabrieljssantos) 
