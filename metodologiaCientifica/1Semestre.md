@@ -33,26 +33,26 @@
   </ol>
   <ol start="2"> 
     <h3><li><b>Tecnologias Utilizadas</b></li></h3>
-      <p align="justify">
-      As principais tecnologias utilizadas para o desenvolvimento do sistema são:
-      <ul>
-        <li><a href="https://www.figma.com/">Figma</a></li>
-          <p align="justify"> Segundo <a href="http://ijistech.org/ijistech/index.php/ijistech/article/view/145/145">Putra et al. (2021)</a>, Figma é uma ferramenta para projetos UI com excelentes ferramentas termos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto etc.Por conta disso, dentro da nossa ferramenta, foi utilizado o plugin FigJam para (i) realização de metodologia de Design thinking para o levantamento das principais dúvidas sobre o projeto e desenvolvimento de um esboço e linha lógica de construção e (ii) uso da metodologia Product Backlog Building para o entendimento das "dores" do cliente, alinhamento das expectativas, levantamento dos usuários e de suas funcionalidades dentro do sistema, criação de user stories, priorização das user stories e construção do Product Backlog com os principais MVPs para cada Sprint.</p>
-          <li><a href="https://www.atlassian.com/br/software/jira">Jira</a></li>
-          <p align="justify">texto.</p>
-        <li><a href="https://angular.io/">Angular</a></li>
-        <p align="justify">
-        texto
-        </p>
-        <li><a href="https://spring.io/">Spring Framework</a></li>
-        <p align="justify">
-        texto
-        <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a></li>
-        <p align="justify">
-        texto
-        </p>
-    </ul>
-     </p>
+<p align="justify">As principais tecnologias utilizadas no seu projeto foram:</p>
+<ul>
+  <li><a href="https://reactnative.dev/">React Native</a></li>
+    <p align="justify">React Native é um framework que permite o desenvolvimento de aplicativos móveis para Android e iOS utilizando a linguagem JavaScript e a biblioteca React. Ele oferece uma série de componentes pré-construídos e é altamente customizável, o que torna o desenvolvimento mais rápido e eficiente.</p>
+  <li><a href="https://expo.io/">Expo</a></li>
+    <p align="justify">Expo é uma plataforma para desenvolvimento de aplicativos móveis que facilita o processo de construção, teste e distribuição de aplicativos. Ele oferece diversas ferramentas úteis para desenvolvedores, como um ambiente de desenvolvimento integrado (IDE), uma biblioteca de componentes pré-construídos e um sistema de gerenciamento de dependências.</p>
+  <li><a href="https://www.javascript.com/">JavaScript</a></li>
+    <p align="justify">JavaScript é uma linguagem de programação utilizada para desenvolver aplicativos web e móveis, além de ser muito utilizada para programação em geral. Ela é a base do React Native e outras tecnologias modernas de desenvolvimento web e móvel.</p>
+  <li><a href="https://nodejs.org/en/">NodeJs</a></li>
+    <p align="justify">NodeJs é um ambiente de execução JavaScript que permite a execução de códigos JavaScript no servidor. Ele é muito utilizado para construir aplicações web em tempo real, APIs RESTful e microservices.</p>
+  <li><a href="https://chocolatey.org/">Chocolatey</a></li>
+    <p align="justify">Chocolatey é um gerenciador de pacotes para Windows que permite a instalação, atualização e desinstalação de programas de maneira automatizada.</p>
+  <li><a href="https://www.java.com/pt-BR/">Java</a></li>
+    <p align="justify">Java é uma linguagem de programação orientada a objetos muito utilizada para desenvolvimento de aplicativos empresariais e soluções de back-end. Ela é utilizada em conjunto com o Android Studio para desenvolvimento de aplicativos Android.</p>
+  <li><a href="https://developer.android.com/studio">Android Studio</a></li>
+    <p align="justify">Android Studio é um ambiente de desenvolvimento integrado (IDE) para o desenvolvimento de aplicativos Android. Ele é baseado no IntelliJ IDEA e oferece ferramentas avançadas para desenvolvimento de aplicativos, como emuladores de dispositivos Android, um depurador integrado e suporte para diversas linguagens de programação.</p>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+    <p align="justify">Visual Studio Code é um editor de código-fonte gratuito e multiplataforma desenvolvido pela Microsoft. Ele é muito utilizado para desenvolvimento web, oferecendo diversas extensões e ferramentas úteis para desenvolvedores.</p>
+  <li><a href="https://www.figma.com/">Figma</a></li>
+    <p align="justify">Figma é uma ferramenta de design de interfaces de usuário baseada em nuvem, permitindo que designers e desenvolvedores colaborem no mesmo projeto em tempo real. Ele é muito utilizado para criar wireframes,
   </ol>
   <ol start="3">
     <h3><li><b>Funcionalidades</b></li></h3>
