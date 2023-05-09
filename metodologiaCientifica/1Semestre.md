@@ -1,116 +1,84 @@
-# Gabriel José Souza dos Santos
+<html>
+  <body>
+     <table align="center">
+     <tr>
+      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img></p>
+     </tr>
+    </table>
 
-## Introdução
-
-Olá, seja bem-vindo. Sou o Gabriel Santos, 20 anos e estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
-
-Atualmente trabalho como Web Analytics em uma equipe de performance dentro de uma agência de marketing. As decisões são baseadas em dados que foram coletados e analisados após o processo de ETL, sendo movidos de maneira data-driven.<br/>
-
-<img src="https://user-images.githubusercontent.com/48994698/190278536-70fb9cac-daac-4ac2-ae46-cbdba49da90b.jpg" height="450" width="350"/>
-
-
-##### *Figura 00. Eu*
-
-### Meus principais conhecimentos
-
-#### JavaScript
-Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de problemas e criação de scripts para soluções propias para determinada necessidade que a empresa venha a precisar. No ambiente WEB, o Javascript é utilizado em diversas pontas de acordo com as necessidades que apareça. Um exemplo é a utilização para Extração do dados, manipulações do DOM em páginas web e até mesmo a utilização de cookies para obtermos dados personalizados de determinado usuário.
-
-#### Python
-A utilização de Python pode ser feita em todo processo do ETL (Extract, Transform e Load). Na parte de Extrack, podemos utilizar Web-Scraping para coleta de dados da web, de sites, onde são usados scripts e programas para “raspar”. Após o Transform, onde tratamos os dados, podemos utilizar os mesmos para realizarmos análises. Essas análises são transformadas em atitudes que beneficiaram a empresa, e da mesma forma podemos utilizar para realizar predições baseado nesses dados que já foram coletados.
-
-#### Projetos Integradores durante a graduação 
-Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Durante os semestres os grupos recebem a necessidade real de uma empresa, onde o representante da empresa nos explica o que precisam, afim de desenvolvermos a solução
-O processo é dividido em Sprints, e acontece aplicação de metodologias ágeis, como SCRUM e Kanban.
-O projeto é acompanhado pelo representante da empresa em reuniões periódicas, para se atualizar do desenvolvimento do projeto, e se cumpre os requisitos necessários que são desenvolvidos com os conhecimentos adquiridos durante o curso. Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta (e entregue), e os aprendizamos extraídos de cada um deles.
-
-
-# Projeto 3 - 3º semestre de 2022
-## Empresa parceira:
-MidAll
-
-<img src="https://user-images.githubusercontent.com/80851038/163725778-498ec2e9-e8eb-45cf-a586-848e5bb1dd97.png" height="150"/>
-
-##### *Figura 11. MidAll (Fonte: https://www.midall.com.br/)*
-
-A MidAll nasceu para simplificar a jornada de evolução do seu negócio para o alcance de qualquer visão estratégica. Nossa missão é preparar negócios para o futuro,  em uma nova era de disrupções de mercados somados aos desafios pós pandemia. Acreditamos que Tecnologia, Dado e Inovação orientados a geração de valor para o cliente, é o ambiente de negócio perfeito para promissores resultados.
-
-### Visão do Projeto
-
-"Temos um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema." - MidAll.
-
-A ideia é criar um mini motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
-
-
-## Tecnologias utilizadas:
-- Java <br/>
-- Hibernate <br/>
-- PostgreSQL <br/>
-- Quarkus <br/>
-- Docker <br/>
-- HTML <br/>
-- CSS <br/>
-- Javascript <br/>
-
-## Requisitos Funcionais:
-Interface para cadastros de produtos contendo, ao menos, código, descrição e valor;
-Tela que represente um carrinho de compras para adicionar os itens. Pode ter somente os itens selecionados, valor unitário, valor total e desconto aplicado;
-Interface para criação das promoções.
-
-## Requisitos não Funcionais:
-- Linguagem Java;
-- Banco de Dados Relacional;
-- Documentações.
-
-### Contribuições pessoais
-Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end.
-
-Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. A aplicação de User-Experience para conseguirmos facilitar a utilização dos usuarios, para que com poucos cliques possamos suprir a necessidade do cliente. 
-
-Para que possamos facilitar a jornada do usuario em nosso projeto, necessitamos de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
-
-Outra contribuição no front-end, foi principalmente nas requisições http do projeto, planejando o fluxo de dados entre: Back-End, Banco de dados e Front-End, realizando POSTs e GETs, por exemplo, de acordo com as necessidades. <br>
-  <details>
-    <img src="https://user-images.githubusercontent.com/48994698/204924576-95362135-d8fe-40b5-ad44-5235263f6fbd.png" alt="UX Design - Exemplo" width="600"    height="400"> <br>
-    - No exemplo acima, foi utilizado AJAX para realizar o POST. Citando algum dos pontos mais importantes para essa Requisição POST, começando pela URL do EndPoint que será enviado o POST. O Endpoint é uma forma de comunicação, um nó de rede de comunicação. É uma interface exposta por uma parte comunicante ou por um canal de comunicaçã
-  </details>
-
-No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
-
-## Aprendizados Efetivos HS
-
-### Arquitetura Rest<br>
-<details>
-  A arquitetura REST permite realizar a comunicação, a mesma realiza e estabelece uma conexão TCP/IP com o servidor de destino, e envia uma requisição GET HTTP, com o endereço buscado. Sendo assim podemos trabalhar com requisições HTTP;
-</details>
-
-### C.R.U.D<br>
-<details>
-   **Create:** Trata-se do conceito de criação, registro ou cadastro de informações e dados; <p> 
-   **Read:** É o ato de consultar os dados em determinado end-points;<p>
-   **Update:** Update é aplicado quando você, que é dono dos dados ou tem permissão para editá-los, atualiza as informações que julgar necessárias;<p>
-   **Delete:** Trata-se de uma ação de remoção de dados a partir do operador do sistema;<p>
- </details>
-
-### User Interface (UI);<br>
-<details>
- **UI**, cuida da parte em que o usuário interage com um site (no caso do designda pagina), layout. O UI, ou User Interface, é um termo comumente utilizado para explicar como serão feitas as interações entre pessoas e softwares ou aplicativos. A escolha de um botão ou até mesmo a posição do mesmo, influencia totalmente na utilização do usuario e sua fluidez 
- </details>
-
-### User Experience (UX);<br>
-<details>
-   **UX**, trata-se do cuidado com a Experiencia do Usuario na plataforma, no caso a aplicação WEB. Com isso, pensamos na melhor forma do nosso usuario cliente utilizar nossa aplicação, que no final das contas é um produto para o mesmo. No cas, utilizando boas praticas de UX, vamos olhar para nossa aplicação de maneira que podemos simplificar seu uso. O usuario deve tomar o menor numero de ações possiveis para alcançar determinado objetivo <br><br>
-  
-  <img src="https://user-images.githubusercontent.com/48994698/204919725-c4b8a70e-98fb-4cde-b002-a8fe24720866.png" alt="UX Design - Exemplo" width="600" height="400"> <br><br>
-    - Na imagem acima podemos utilizar como exemplo para citar as boas pratica de UX-Design. Neste caso, podemos buscar a facilitação no percurso que o usuario percorre até chegar no seu objetivo. Quanto menos botões e redirecionamentos o usuário tiver que passar, mais facil chegará no objetivo. Boas praticas de UX-Design tambem são: <br>
- <b> 1) </b> Testes <br>
- <b> 2) </b> Mobile First <br> 
- <b> 3) </b> Performance <br> 
- <b> 5) </b> Cores <br>
-  
-</details>
-
-## Contatos:
-
-- [LinkedIn;](https://www.linkedin.com/in/gabriel-santos-87922b170/)
-- [GitHub.](https://github.com/gabrieljssantos) 
+  <ol>
+    <h3><li><b>Descrição do Projeto</b></li></h3>
+    <p align="justify">
+      ##
+      </br>  
+    </p>
+      <ol>
+        <h4><li><b>Objetivo Geral</b></li></h4>
+        <p align="justify">
+       ##
+        </p>
+        <h4><li><b>Objetivos Específicos</b></li></h4>
+        <p align="justify">
+        Como objetivos específicos temos:
+          <ul>
+            <li>##</li>
+            <li>##</li>
+          </ul>
+          </p> 
+        </ol>    
+        <p align="justify">
+        ######
+        </p>
+       <!--  <details>
+        <summary><b>Adicional</b></summary>
+        <br>
+        <table aling="center">
+          <tr>
+            <td align="center"><img style="border-radius: 50%;" src="" widht="50%" alt=""/></td>
+            <td align="center"><img style="border-radius: 50%;" src="" widht="50%" alt=""/></td>
+            <td align="center"><img style="border-radius: 50%;" src="" widht="50%" alt=""/></td>
+          </tr>
+        </table> -->
+  </ol>
+  <ol start="2"> 
+    <h3><li><b>Tecnologias Utilizadas</b></li></h3>
+      <p align="justify">
+      As principais tecnologias utilizadas para o desenvolvimento do Sistema, são:
+        <ul>
+          <li><a href="https://www.figma.com/">Figma</a></li>
+            <p align="justify"> Segundo <a href="http://ijistech.org/ijistech/index.php/ijistech/article/view/145/145">Putra et al. (2021)</a>, Figma é uma ferramenta para projetos UI com excelentes ferramentas termos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto etc.Por conta disso, dentro da nossa ferramenta, foi utilizado o plugin FigJam para (i) realização de metodologia de Design thinking para o levantamento das principais dúvidas sobre o projeto e desenvolvimento de um esboço e linha lógica de construção e (ii) uso da metodologia Product Backlog Building para o entendimento das "dores" do cliente, alinhamento das expectativas, levantamento dos usuários e de suas funcionalidades dentro do sistema, criação de user stories, priorização das user stories e construção do Product Backlog com os principais MVPs para cada Sprint.</p>
+            <li><a href="https://www.atlassian.com/br/software/jira">Jira</a></li>
+            <p align="justify">texto.</p>
+          <li><a href="https://angular.io/">Angular</a></li>
+          <p align="justify">
+          texto
+          </p>
+          <li><a href="https://spring.io/">Spring Framework</a></li>
+          <p align="justify">
+          texto
+          <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a></li>
+          <p align="justify">
+          texto
+          </p>
+      </ul>
+      </p>
+    <h3><li><b>Contribuição para o Projeto</b></li></h3>
+    <p align="justify">Como Product Owner da nossa equipe, fui responsável pelo contato direto com os colaboradores da Oracle e pelo planejamento do Product Backlog uma vez que o Projeto foi desenvolvido utilizando metodologia Ágil.</p>
+  <p align="justify">A primeira prática para o planejamento da aplicação foi um sessão de <a href="https://www.figma.com/file/E0O9WFOCh63ult0YvkEjVs/%23VemPraCasa?node-id=0%3A1">Design Thinking</a> em que se buscou levantar as principais percepções da equipe em relação a reunião de kick off do produto e as principais dúvidas para que pudéssemos tirar com o cliente e, a partir disso, desenvolver o product backlog do projeto.</p>
+  <p align="justify">As perguntas foram levantadas e, posterior às respostas do cliente, iniciou-se sessões de Product Backlog Building, uma metodologia para alcançar de forma colaborativa o Product Backlog da aplicação.</p>
+  <p align="justify">O primeiro passo foi analisar quais eram as dores e os problemas enfrentados pelo cliente a partir das perguntas realizadas e da sessão de kick off, posteriormente fizemos o levantamento das expectativas que o cliente tinha em relação a ferramenta para que pudéssemos, então, realizar o levantamento dos principais usuários, tendo sido identificados: convidado externo, convidado interno, organizador e administrador.</p>
+ </ol>
+  <ol start="4">
+     <h3><li><b>Lições Aprendidas</b></li></h3>
+     <ol>
+      <li>Avancei no entendimento e uso da metodologia ágil;</li>
+      <li>Liderei sessão de design thinking baseado nos estudos que realizei sobre a metodologia;</li>
+      <li>Liderei as sessões de Product Backlog Building (PBB) baseadas nos estudos realizados sobre o método;</li>
+      <li>Aprimorei meus conhecimentos no Figma, utilizando novas ferramentas como a prototipação das wireframes;</li>
+      <li>Aumentei meus conhecimentos em relação a UI/UX design, focando o desenvolvimento das wireframes nos usuários do Sistema;</li>
+      <li>Iniciei na Programação front-end conhecendo o VS Code e o Angular;</li>
+      <li>Aprimorei meus conhecimentos em HTML e SCSS, pois pude desenvolver novas funções que não havia realizado até o momento, bem como não utilizar um padrão já existente, construindo a ferramenta do zero a partir dos estudos realizados e as wireframes construídas.</li>
+      </ol>
+ </ol>
+  </body>
+</html>
