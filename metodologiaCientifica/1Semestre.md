@@ -77,5 +77,31 @@
       O Assistente Virtual - Helena foi desenvolvido com o objetivo de facilitar a vida dos usuários durante as suas viagens, fornecendo informações precisas e atualizadas sobre pontos turísticos, hotéis, clima, conversão de moedas, medidas e tradução. Além disso, o sistema foi desenvolvido para responder a comandos de voz ou sons específicos, como palmas e estalar de dedos, e pode ser utilizado em dispositivos mobile, web ou desktop. Esperamos que a utilização do sistema possa proporcionar uma experiência agradável e otimizada para todos os usuários.
       </p>
   </ol>
+  
+  
+<ol start="5">
+    <h3><li><b>Lições Aprendidas</b></li></h3>
+      <p align="justify">
+        <b>Habilidades Técnicas (Hard Skills)</b><br>
+        Durante o desenvolvimento deste projeto, foram adquiridas as seguintes habilidades técnicas:
+        <ul>
+          <li>Desenvolvimento de aplicativos móveis usando React Native e Expo;</li>
+          <li>Programação em JavaScript e NodeJs;</li>
+          <li>Uso de ferramentas como Chocolatey, Java, Android Studio e Visual Studio Code;</li>
+          <li>Criação de interfaces de usuário usando Figma.</li>
+        </ul>
+        <br>
+        <b>Habilidades Interpessoais (Soft Skills)</b><br>
+        Além disso, também foram desenvolvidas as seguintes habilidades interpessoais:
+        <ul>
+          <li>Trabalho em equipe, já que o projeto envolveu múltiplos desenvolvedores;</li>
+          <li>Comunicação eficaz para garantir que os requisitos do projeto sejam compreendidos e implementados corretamente;</li>
+          <li>Gerenciamento do tempo e priorização de tarefas para cumprir os prazos estabelecidos;</li>
+          <li>Resolução de problemas e tomada de decisões, já que o projeto envolveu lidar com desafios técnicos e decisões sobre a melhor abordagem para implementar as funcionalidades desejadas;</li>
+          <li>Flexibilidade e adaptabilidade, já que o projeto exigiu a aprendizagem de novas tecnologias e a capacidade de se adaptar a mudanças nos requisitos do projeto.</li>
+        </ul>
+      </p>
+  </ol>
+  
 </body>
 </html>
