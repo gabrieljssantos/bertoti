@@ -5,80 +5,77 @@
       <p align="center"><img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img></p>
      </tr>
     </table>
-
   <ol>
     <h3><li><b>Descrição do Projeto</b></li></h3>
     <p align="justify">
-      ##
-      </br>  
+      Desenvolvida para ser uma assistente virtual de viagens, Helena responde a comandos de voz e possui como principal objetivo garantir ao usuário uma experiência otimizada e agradável quando estiver viajando. Ela proporciona diversas funcionalidades que podem ser de grande ajuda em certos momentos, desde a busca por pontos turísticos até a conversão de moedas.
     </p>
       <ol>
         <h4><li><b>Objetivo Geral</b></li></h4>
         <p align="justify">
-       ##
+        Desenvolver uma assistente virtual capaz de auxiliar o usuário durante suas viagens de forma otimizada e agradável, fornecendo informações úteis e relevantes sobre pontos turísticos, hotéis, clima, conversão de moedas e medidas, além de outras funcionalidades.
         </p>
         <h4><li><b>Objetivos Específicos</b></li></h4>
         <p align="justify">
-        Como objetivos específicos temos:
+        Como objetivos específicos, temos:
           <ul>
-            <li>##</li>
-            <li>##</li>
+            <li>Desenvolver um sistema que responda a comandos de voz ou sons específicos (palmas, estalar de dedos, etc);</li>
+            <li>Implementar no mínimo 8 ações distintas e de natureza distintas;</li>
+            <li>Desenvolver um sistema mobile, web ou desktop;</li>
+            <li>Retornar o comando em qualquer forma (som, texto ou ação);</li>
+            <li>Ter um contexto específico de aplicação, focado em viagens e turismo.</li>
           </ul>
-          </p> 
+        </p> 
         </ol>    
         <p align="justify">
-        ######
+        Helena foi criada para atender às necessidades dos amantes de viagens, oferecendo uma experiência personalizada e única para cada usuário, independentemente da cidade ou país que esteja visitando.
         </p>
-       <!--  <details>
-        <summary><b>Adicional</b></summary>
-        <br>
-        <table aling="center">
-          <tr>
-            <td align="center"><img style="border-radius: 50%;" src="" widht="50%" alt=""/></td>
-            <td align="center"><img style="border-radius: 50%;" src="" widht="50%" alt=""/></td>
-            <td align="center"><img style="border-radius: 50%;" src="" widht="50%" alt=""/></td>
-          </tr>
-        </table> -->
   </ol>
   <ol start="2"> 
     <h3><li><b>Tecnologias Utilizadas</b></li></h3>
       <p align="justify">
-      As principais tecnologias utilizadas para o desenvolvimento do Sistema, são:
+      As principais tecnologias utilizadas para o desenvolvimento do sistema são:
+      <ul>
+        <li><a href="https://www.figma.com/">Figma</a></li>
+          <p align="justify"> Segundo <a href="http://ijistech.org/ijistech/index.php/ijistech/article/view/145/145">Putra et al. (2021)</a>, Figma é uma ferramenta para projetos UI com excelentes ferramentas termos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto etc.Por conta disso, dentro da nossa ferramenta, foi utilizado o plugin FigJam para (i) realização de metodologia de Design thinking para o levantamento das principais dúvidas sobre o projeto e desenvolvimento de um esboço e linha lógica de construção e (ii) uso da metodologia Product Backlog Building para o entendimento das "dores" do cliente, alinhamento das expectativas, levantamento dos usuários e de suas funcionalidades dentro do sistema, criação de user stories, priorização das user stories e construção do Product Backlog com os principais MVPs para cada Sprint.</p>
+          <li><a href="https://www.atlassian.com/br/software/jira">Jira</a></li>
+          <p align="justify">texto.</p>
+        <li><a href="https://angular.io/">Angular</a></li>
+        <p align="justify">
+        texto
+        </p>
+        <li><a href="https://spring.io/">Spring Framework</a></li>
+        <p align="justify">
+        texto
+        <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a></li>
+        <p align="justify">
+        texto
+        </p>
+    </ul>
+     </p>
+  </ol>
+  <ol start="3">
+    <h3><li><b>Funcionalidades</b></li></h3>
+      <p align="justify">
+        O sistema possui as seguintes funcionalidades:
         <ul>
-          <li><a href="https://www.figma.com/">Figma</a></li>
-            <p align="justify"> Segundo <a href="http://ijistech.org/ijistech/index.php/ijistech/article/view/145/145">Putra et al. (2021)</a>, Figma é uma ferramenta para projetos UI com excelentes ferramentas termos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto etc.Por conta disso, dentro da nossa ferramenta, foi utilizado o plugin FigJam para (i) realização de metodologia de Design thinking para o levantamento das principais dúvidas sobre o projeto e desenvolvimento de um esboço e linha lógica de construção e (ii) uso da metodologia Product Backlog Building para o entendimento das "dores" do cliente, alinhamento das expectativas, levantamento dos usuários e de suas funcionalidades dentro do sistema, criação de user stories, priorização das user stories e construção do Product Backlog com os principais MVPs para cada Sprint.</p>
-            <li><a href="https://www.atlassian.com/br/software/jira">Jira</a></li>
-            <p align="justify">texto.</p>
-          <li><a href="https://angular.io/">Angular</a></li>
-          <p align="justify">
-          texto
-          </p>
-          <li><a href="https://spring.io/">Spring Framework</a></li>
-          <p align="justify">
-          texto
-          <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a></li>
-          <p align="justify">
-          texto
-          </p>
-      </ul>
+          <li><b>Pontos turísticos:</b> Mostra os principais pontos turísticos de uma cidade.</li>
+          <li><b>Onde Estou:</b> Responsável por abrir o mapa na localização do usuário.</li>
+          <li><b>Mapa de Hotéis:</b> Mostra um mapa de hotéis disponíveis em uma cidade, bem como o preço.</li>
+          <li><b>Roteiro Pessoal:</b> Dá ao usuário a possibilidade de criar um roteiro de tarefas.</li>
+          <li><b>Clima:</b> Visualiza o clima e a temperatura atual da sua localização.</li>
+          <li><b>Saiba Mais:</b> Mostra imagens, dados curiosos, a história e uma visão atual de alguma cidade.</li>
+          <li><b>Conversor de Moedas:</b> Ferramenta de conversão de valores monetários.</li>
+          <li><b>Conversor de Medidas:</b> Ferramenta que converte os valores de medidas de roupas entre os países.</li>
+          <li><b>Tradutor:</b> Traduz para língua desejada.</li>
+        </ul>
       </p>
-    <h3><li><b>Contribuição para o Projeto</b></li></h3>
-    <p align="justify">Como Product Owner da nossa equipe, fui responsável pelo contato direto com os colaboradores da Oracle e pelo planejamento do Product Backlog uma vez que o Projeto foi desenvolvido utilizando metodologia Ágil.</p>
-  <p align="justify">A primeira prática para o planejamento da aplicação foi um sessão de <a href="https://www.figma.com/file/E0O9WFOCh63ult0YvkEjVs/%23VemPraCasa?node-id=0%3A1">Design Thinking</a> em que se buscou levantar as principais percepções da equipe em relação a reunião de kick off do produto e as principais dúvidas para que pudéssemos tirar com o cliente e, a partir disso, desenvolver o product backlog do projeto.</p>
-  <p align="justify">As perguntas foram levantadas e, posterior às respostas do cliente, iniciou-se sessões de Product Backlog Building, uma metodologia para alcançar de forma colaborativa o Product Backlog da aplicação.</p>
-  <p align="justify">O primeiro passo foi analisar quais eram as dores e os problemas enfrentados pelo cliente a partir das perguntas realizadas e da sessão de kick off, posteriormente fizemos o levantamento das expectativas que o cliente tinha em relação a ferramenta para que pudéssemos, então, realizar o levantamento dos principais usuários, tendo sido identificados: convidado externo, convidado interno, organizador e administrador.</p>
- </ol>
+  </ol>
   <ol start="4">
-     <h3><li><b>Lições Aprendidas</b></li></h3>
-     <ol>
-      <li>Avancei no entendimento e uso da metodologia ágil;</li>
-      <li>Liderei sessão de design thinking baseado nos estudos que realizei sobre a metodologia;</li>
-      <li>Liderei as sessões de Product Backlog Building (PBB) baseadas nos estudos realizados sobre o método;</li>
-      <li>Aprimorei meus conhecimentos no Figma, utilizando novas ferramentas como a prototipação das wireframes;</li>
-      <li>Aumentei meus conhecimentos em relação a UI/UX design, focando o desenvolvimento das wireframes nos usuários do Sistema;</li>
-      <li>Iniciei na Programação front-end conhecendo o VS Code e o Angular;</li>
-      <li>Aprimorei meus conhecimentos em HTML e SCSS, pois pude desenvolver novas funções que não havia realizado até o momento, bem como não utilizar um padrão já existente, construindo a ferramenta do zero a partir dos estudos realizados e as wireframes construídas.</li>
-      </ol>
- </ol>
-  </body>
+    <h3><li><b>Considerações Finais</b></li></h3>
+      <p align="justify">
+      O Assistente Virtual - Helena foi desenvolvido com o objetivo de facilitar a vida dos usuários durante as suas viagens, fornecendo informações precisas e atualizadas sobre pontos turísticos, hotéis, clima, conversão de moedas, medidas e tradução. Além disso, o sistema foi desenvolvido para responder a comandos de voz ou sons específicos, como palmas e estalar de dedos, e pode ser utilizado em dispositivos mobile, web ou desktop. Esperamos que a utilização do sistema possa proporcionar uma experiência agradável e otimizada para todos os usuários.
+      </p>
+  </ol>
+</body>
 </html>
