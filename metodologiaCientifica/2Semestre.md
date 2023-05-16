@@ -2,7 +2,7 @@
   <body>
      <table align="center">
      <tr>
-      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img></p>
+      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" width=35%></img></p>
      </tr>
     </table>
   <ol>
