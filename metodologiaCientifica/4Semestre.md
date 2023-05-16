@@ -1,115 +1,118 @@
-# Gabriel José Souza dos Santos
+<html>
+  <body>
+     <table align="center">
+     <tr>
+      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img></p>
+     </tr>
+    </table>
+  <ol>
+    <h3><li><b>Descrição do Projeto</b></li></h3>
+    <p align="justify">
+      A empresa MidAll enfrenta um desafio de sincronização dos dados administrativos, financeiros e operacionais referentes aos serviços prestados. A falta de organização dos dados resulta em lentidão no atendimento de chamados e dificuldade na interpretação dos indicadores comerciais e financeiros.
+    </p>
+      <ol>
+        <h4><li><b>Objetivo Geral</b></li></h4>
+        <p align="justify">
+          O objetivo geral deste projeto é desenvolver uma plataforma web que organize os dados referentes aos serviços prestados pela empresa de forma interpretada. A plataforma tem como principal objetivo criar chamados e agendamentos conforme as necessidades do cliente e solucioná-los de forma ponta a ponta entre a relação do cliente com o suporte e o suporte com o administrador que trabalha na criação e sincronização dos dados em um único lugar.
+        </p>
+        <h4><li><b>Objetivos Específicos</b></li></h4>
+        <p align="justify">
+          Como objetivos específicos, temos:
+          <ul>
+            <li>Cadastrar usuários e horários</li>
+            <li>Cadastrar produtos do cliente (modelo, número de série etc.)</li>
+            <li>Definir perfis diferentes para os usuários (administrador, suporte, cliente)</li>
+            <li>Registrar chamados</li>
+            <li>Acompanhar os chamados de ponta a ponta</li>
+            <li>Implementar um front-end para entrada e interpretação de dados</li>
+            <li>Desenvolver uma ferramenta para criação (desenho) e visualização dos "Mapas de Anomalias"</li>
+          </ul>
+        </p> 
+        </ol>    
+        <p align="justify">
+          A solução proposta visa solucionar o problema de sincronização e organização dos dados administrativos, financeiros e operacionais da empresa MidAll. A plataforma web será desenvolvida utilizando linguagem Java no lado do servidor, Vue.js para o front-end, e PL/SQL para o banco de dados. O controle de versão do código será realizado utilizando o sistema GIT.
+        </p>
+  </ol>
+  <ol start="2"> 
+    <h3><li><b>Tecnologias Utilizadas</b></li></h3>
+<p align="justify">As principais tecnologias utilizadas no seu projeto foram:</p>
+<ul>
+  <li><a href="https://reactnative.dev/">React Native</a></li>
+    <p align="justify">React Native é um framework que permite o desenvolvimento de aplicativos móveis para Android e iOS utilizando a linguagem JavaScript e a biblioteca React. Ele oferece uma série de componentes pré-construídos e é altamente customizável, o que torna o desenvolvimento mais rápido e eficiente.</p>
+  <li><a href "https://expo.io/">Expo</a></li>
+<p align="justify">Expo é uma plataforma para desenvolvimento de aplicativos móveis que facilita o processo de construção, teste e distribuição de aplicativos. Ele oferece diversas ferramentas úteis para desenvolvedores, como um ambiente de desenvolvimento integrado (IDE), uma biblioteca de componentes pré-construídos e um sistema de gerenciamento de dependências.</p>
 
-## Introdução
+  <li><a href="https://www.javascript.com/">JavaScript</a></li>
+    <p align="justify">JavaScript é uma linguagem de programação utilizada para desenvolver aplicativos web e móveis, além de ser muito utilizada para programação em geral. Ela é a base do React Native e outras tecnologias modernas de desenvolvimento web e móvel.</p>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+    <p align="justify">Node.js é um ambiente de execução JavaScript que permite a execução de códigos JavaScript no servidor. Ele é muito utilizado para construir aplicações web em tempo real, APIs RESTful e microservices.</p>
+  <li><a href="https://chocolatey.org/">Chocolatey</a></li>
+    <p align="justify">Chocolatey é um gerenciador de pacotes para Windows que permite a instalação, atualização e desinstalação de programas de maneira automatizada.</p>
+  <li><a href="https://www.java.com/pt-BR/">Java</a></li>
+    <p align="justify">Java é uma linguagem de programação orientada a objetos muito utilizada para desenvolvimento de aplicativos empresariais e soluções de back-end. Ela é utilizada em conjunto com o Android Studio para desenvolvimento de aplicativos Android.</p>
+  <li><a href="https://developer.android.com/studio">Android Studio</a></li>
+    <p align="justify">Android Studio é um ambiente de desenvolvimento integrado (IDE) para o desenvolvimento de aplicativos Android. Ele é baseado no IntelliJ IDEA e oferece ferramentas avançadas para desenvolvimento de aplicativos, como emuladores de dispositivos Android, um depurador integrado e suporte para diversas linguagens de programação.</p>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+    <p align="justify">Visual Studio Code é um editor de código-fonte gratuito e multiplataforma desenvolvido pela Microsoft. Ele é muito utilizado para desenvolvimento web, oferecendo diversas extensões e ferramentas úteis para desenvolvedores.</p>
+  <li><a href="https://www.figma.com/">Figma</a></li>
+    <p align="justify">Figma é uma ferramenta de design de interfaces de usuário baseada em nuvem, permitindo que designers e desenvolvedores colaborem no mesmo projeto em tempo real. Ele é muito utilizado para criar wireframes, protótipos e designs de aplicativos e sites.</p>
+</ul>
+</ol>
+<ol start="3">
+  <h3><li><b>Funcionalidades</b></li></h3>
+  <p align="justify">
+    O sistema possui as seguintes funcionalidades:
+    <ul>
+      <li>Cadastro de usuários e horários</li>
+      <li>Cadastro de produtos do cliente (modelo, número de série, etc.)</li>
+     <ul>
+      <li>Usuários com perfis diferentes (administrador, suporte, cliente)</li>
+      <li>Registro de chamados</li>
+      <li>Acompanhamento de chamados de ponta a ponta</li>
+      <li>Front-end para entrada e interpretação de dados</li>
+      <li>Ferramenta para criação (desenho) e visualização dos "Mapas de Anomalias"</li>
+    </ul>
+  </p>
+</ol>
+<ol start="4">
+  <h3><li><b>Lições Aprendidas</b></li></h3>
+  <p align="justify">
+    <b>Habilidades Técnicas (Hard Skills)</b><br>
+    Durante o desenvolvimento deste projeto, foram adquiridas as seguintes habilidades técnicas:
+    <ul>
+      <li>Desenvolvimento de aplicações web usando Java Server-Side</li>
+      <li>Utilização do framework Vue.js para o front-end</li>
+      <li>Manipulação de banco de dados com PL/SQL</li>
+      <li>Controle de versão com o sistema GIT</li>
+    </ul>
+    <br>
+    <b>Habilidades Interpessoais (Soft Skills)</b><br>
+    Além disso, também foram desenvolvidas as seguintes habilidades interpessoais:
+    <ul>
+      <li>Trabalho em equipe e colaboração</li>
+      <li>Comunicação efetiva</li>
+      <li>Gerenciamento de projetos e prazos</li>
+      <li>Resolução de problemas</li>
+    </ul>
+  </p>
+</ol>
+<ol start="5">
+  <h3><li><b>Considerações Finais</b></li></h3>
+  <p align="justify">
+    Após a conclusão deste projeto do 4º semestre para a empresa MidAll, podemos destacar os seguintes pontos:
+   Durante o desenvolvimento, enfrentamos diversos desafios técnicos e organizacionais. A sincronização dos dados administrativos, financeiros e operacionais foi um dos principais obstáculos a serem superados. No entanto, com a utilização das tecnologias adequadas, como Java Server-Side, Vue.js, PL/SQL e GIT, conseguimos criar uma plataforma web eficiente e organizada.
 
-Olá, seja bem-vindo. Sou o Gabriel Santos, 20 anos e estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
+A plataforma desenvolvida proporcionou melhorias significativas no atendimento aos chamados, agilizando o processo e eliminando a confusão na interpretação dos indicadores comerciais e financeiros. Os usuários agora têm acesso a um sistema completo, que permite o cadastro de usuários e horários, produtos dos clientes, registro e acompanhamento de chamados, além de uma interface intuitiva para entrada e interpretação de dados. A ferramenta de criação e visualização dos "Mapas de Anomalias" também contribuiu para uma melhor compreensão dos problemas e suas soluções.
 
-Atualmente trabalho como Web Analytics Engineer dentro do time de Engenharia de Dados, na Descomplica. Todas as futuras decisões que seram tomadas, são baseadas em dados que foram coletados e analisados após o processo de ETL, sendo movidos de maneira data-driven.<br/>
+Ao longo do projeto, adquirimos habilidades técnicas importantes, como o desenvolvimento de aplicações web usando Java Server-Side, o uso do framework Vue.jspara o front-end, a manipulação de banco de dados com PL/SQL e o controle de versão com o sistema GIT. Além disso, desenvolvemos habilidades interpessoais essenciais, como o trabalho em equipe, a comunicação efetiva, o gerenciamento de projetos e prazos, e a resolução de problemas.
 
-<img src="https://user-images.githubusercontent.com/48994698/190278536-70fb9cac-daac-4ac2-ae46-cbdba49da90b.jpg" height="450" width="350"/>
-
-
-##### *Figura 00. Eu*
-
-### Meus principais conhecimentos
-
-#### JavaScript
-Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de problemas e criação de scripts para soluções propias para determinada necessidade que a empresa venha a precisar. No ambiente WEB, o Javascript é utilizado em diversas pontas de acordo com as necessidades que apareça. Um exemplo é a utilização para Extração do dados, manipulações do DOM em páginas web e até mesmo a utilização de cookies para obtermos dados personalizados de determinado usuário.
-
-#### Python
-A utilização de Python pode ser feita em todo processo do ETL (Extract, Transform e Load). Na parte de Extrack, podemos utilizar Web-Scraping para coleta de dados da web, de sites, onde são usados scripts e programas para “raspar”. Após o Transform, onde tratamos os dados, podemos utilizar os mesmos para realizarmos análises. Essas análises são transformadas em atitudes que beneficiaram a empresa, e da mesma forma podemos utilizar para realizar predições baseado nesses dados que já foram coletados.
-
-#### Projetos Integradores durante a graduação 
-Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Durante os semestres os grupos recebem a necessidade real de uma empresa, onde o representante da empresa nos explica o que precisam, afim de desenvolvermos a solução
-O processo é dividido em Sprints, e acontece aplicação de metodologias ágeis, como SCRUM e Kanban.
-O projeto é acompanhado pelo representante da empresa em reuniões periódicas, para se atualizar do desenvolvimento do projeto, e se cumpre os requisitos necessários que são desenvolvidos com os conhecimentos adquiridos durante o curso. Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta (e entregue), e os aprendizamos extraídos de cada um deles.
-
-
-# Projeto 4 - 4º semestre de 2023
-## Empresa parceira:
-Subiter
-
-<img src="https://user-images.githubusercontent.com/48994698/223570451-084859f1-d1f9-40e4-af26-64032c89ba10.png" height="150"/>
-
-##### *Figura 11. Subiter (Fonte: https://www.subiter.com/)*
-
-A Subiter é uma empresa de base tecnológica especializada em visão infravermelha. Nossa missão é ajudar a indústria a alcançar excelência em seus processos produtivos. Por meio de sistemas inteligentes de inspeção e monitoramento, podemos observar fenômenos que estão além da capacidade dos olhos humanos
-
-### Visão do Projeto
-
-- Problema
-Temos um desafio de sincronização dos dados administrativos, financeiros e operacionais referentes aos serviços prestados pela empresa. A falta de organização dos dados acarreta lentidão para atender chamados, e confusão na interpretação dos indicadores comerciais e financeiros.
-
-- Solução
-Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serviços prestados pela empresa, de forma interpretada, cujo o principal objetivo é criar chamados e agendamentos conforme as necessidades do cliente e solucioná-los de forma ponta a ponta entre a relação do cliente com o suporte e, suporte com a do administrador que, trabalha na criação e sincronização dos dados em um único lugar.
-
-
-## Tecnologias utilizadas:
-- HTML <br/>
-- Javascript <br/>
-- VUE.JS <br/>
-- CSS <br/>
-- SASS <br/>
-- Java <br/>
-- Spring <br/>
-- Maven <br/>
-- Hibernate <br/>
-
-## Requisitos Funcionais:
-- Cadastros de usuários e horários
-- Cadastros de produtos do cliente (modelo, número de série etc.)
-- Usuários devem ter perfis diferentes (administrador, suporte, cliente)
-- Registro de chamados
-- Acompanhamento de chamados de ponta a ponta
-- Front-end para entrada e interpretação de dados
-- Ferramenta para criação (desenho) e visualização dos “Mapas de Anomalias”
-
-## Requisitos não Funcionais:
-- Linguagem Java Web Server-Side
-- Vue.js ou Flutter
-- PL / SQL
-- GIT
-
-### Contribuições pessoais
+Em conclusão, o projeto do 4º semestre para a empresa MidAll foi um sucesso, atendendo às necessidades de sincronização de dados e proporcionando uma plataforma eficiente para o gerenciamento dos serviços prestados. Através das tecnologias utilizadas e das habilidades adquiridas, pudemos entregar um produto de qualidade e agregar valor à empresa. Estamos satisfeitos com os resultados alcançados e confiantes de que a plataforma contribuirá para o crescimento e o sucesso da MidAll no mercado.
+ </p>
+</ol>
+</body>
+</html>
 
 
-## Aprendizados Efetivos HS
-
-### P.O<br>
-<details>
-
-  **Conhecimento de negócios:** Compreensão do contexto em que o produto está inserido, os objetivos do negócio e a visão da empresa, a fim de alinhar as estratégias de produto com os objetivos de negócio. <br>
-
-  **Conhecimento de tecnologia**: Compreensão técnica básica para entender as capacidades e limitações da tecnologia utilizada na criação do produto, bem como para colaborar com a equipe técnica no planejamento e execução do desenvolvimento do produto.<br>
-
-  **Habilidade de gerenciamento de projetos**: Conhecimento em gerenciamento de projetos para garantir que o processo de desenvolvimento do produto esteja em conformidade com as melhores práticas, prazos e orçamentos estabelecidos.<br>
-
-  **Habilidade de comunicação**: Boa habilidade de comunicação, tanto para trabalhar com a equipe técnica, quanto para se comunicar com outras partes interessadas. Essa habilidade é fundamental para garantir que todas as partes estejam alinhadas com os objetivos do produto.<br>
-
-  **Liderança**: Habilidade de liderar e motivar a equipe, inspirando-os a trabalhar em direção a um objetivo comum.<br>
-
-  **Flexibilidade**: Capacidade de ser flexível e adaptável, pois a natureza do trabalho pode mudar rapidamente, exigindo que ele se adapte a novas demandas e prioridades.<br>
-
-  **Pensamento estratégico**: Habilidade de definir prioridades e tomar decisões que estejam alinhadas com a visão de negócios. Isso inclui a capacidade de planejar a longo prazo, bem como de antecipar e mitigar riscos.<br>
-
-</details>
 
 
-### Scrum<br>
-<details>
 
-  **Comunicação eficaz**: A metodologia Scrum incentiva a comunicação frequente e clara entre a equipe, o que pode melhorar a colaboração e o entendimento mútuo. Isso pode ajudar a resolver problemas de forma mais rápida e eficaz.
-
-  **Melhoria contínua**: A metodologia Scrum incentiva a busca contínua por melhorias no processo de desenvolvimento, o que pode levar a uma cultura de aprendizado e melhoria contínua dentro da equipe.
-
-  **Melhoria na eficiência**: A metodologia Scrum pode melhorar a eficiência do trabalho da equipe, pois as tarefas são divididas em pequenos ciclos, com entregas frequentes e reuniões regulares para avaliação do progresso.
-
-  **Melhoria na qualidade do produto**: Com a divisão de tarefas em pequenos ciclos, há uma maior atenção aos detalhes e a correção de problemas em estágios iniciais do desenvolvimento, o que pode resultar em um produto final de maior qualidade.
-
-  **Visibilidade do processo**: A metodologia Scrum permite que o progresso do projeto seja visualizado e monitorado de forma mais clara e transparente, o que ajuda a identificar problemas e ajustar o processo de desenvolvimento.
-
-</details>
-
-## Contatos:
-- [LinkedIn;](https://www.linkedin.com/in/gabriel-santos-87922b170/)
-- [GitHub.](https://github.com/gabrieljssantos) 
