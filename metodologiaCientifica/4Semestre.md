@@ -2,7 +2,7 @@
   <body>
      <table align="center">
      <tr>
-      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img></p>
+        <p align="center"><img src="https://pqtec.org.br/wpfiles/wp-content/uploads/2020/12/462ae875d43efe63a5d1.png" width="35%"></img></p>
      </tr>
     </table>
   <ol>
