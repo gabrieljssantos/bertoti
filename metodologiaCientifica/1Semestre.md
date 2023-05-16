@@ -71,15 +71,8 @@
         </ul>
       </p>
   </ol>
+  
   <ol start="4">
-    <h3><li><b>Considerações Finais</b></li></h3>
-      <p align="justify">
-      O Assistente Virtual - Helena foi desenvolvido com o objetivo de facilitar a vida dos usuários durante as suas viagens, fornecendo informações precisas e atualizadas sobre pontos turísticos, hotéis, clima, conversão de moedas, medidas e tradução. Além disso, o sistema foi desenvolvido para responder a comandos de voz ou sons específicos, como palmas e estalar de dedos, e pode ser utilizado em dispositivos mobile, web ou desktop. Esperamos que a utilização do sistema possa proporcionar uma experiência agradável e otimizada para todos os usuários.
-      </p>
-  </ol>
-  
-  
-<ol start="5">
     <h3><li><b>Lições Aprendidas</b></li></h3>
       <p align="justify">
         <b>Habilidades Técnicas (Hard Skills)</b><br>
@@ -100,6 +93,13 @@
           <li>Resolução de problemas e tomada de decisões, já que o projeto envolveu lidar com desafios técnicos e decisões sobre a melhor abordagem para implementar as funcionalidades desejadas;</li>
           <li>Flexibilidade e adaptabilidade, já que o projeto exigiu a aprendizagem de novas tecnologias e a capacidade de se adaptar a mudanças nos requisitos do projeto.</li>
         </ul>
+      </p>
+  </ol>
+  
+  <ol start="5">
+    <h3><li><b>Considerações Finais</b></li></h3>
+      <p align="justify">
+      O Assistente Virtual - Helena foi desenvolvido com o objetivo de facilitar a vida dos usuários durante as suas viagens, fornecendo informações precisas e atualizadas sobre pontos turísticos, hotéis, clima, conversão de moedas, medidas e tradução. Além disso, o sistema foi desenvolvido para responder a comandos de voz ou sons específicos, como palmas e estalar de dedos, e pode ser utilizado em dispositivos mobile, web ou desktop. Esperamos que a utilização do sistema possa proporcionar uma experiência agradável e otimizada para todos os usuários.
       </p>
   </ol>
   
