@@ -68,6 +68,64 @@
         <ul>
           <li>Desenvolvimento de aplicativos utilizando Java;</li>
           <li>Conexão e manipulação de bancos de dados relacionais com o uso do JDBC;</li>
+            '''
+               <pre>
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.Statement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+public class JDBCExample {
+    public static void main(String[] args) {
+        // Configuração da conexão com o banco de dados
+        String url = "jdbc:mysql://localhost:3306/meu_banco_de_dados";
+        String username = "usuario";
+        String password = "senha";
+
+        Connection connection = null;
+        Statement statement = null;
+        ResultSet resultSet = null;
+
+        try {
+            // Estabelecendo a conexão com o banco de dados
+            connection = DriverManager.getConnection(url, username, password);
+
+            // Criando um statement para executar consultas SQL
+            statement = connection.createStatement();
+
+            // Executando uma consulta SQL
+            String sql = "SELECT * FROM tabela";
+            resultSet = statement.executeQuery(sql);
+
+            // Processando o resultado da consulta
+            while (resultSet.next()) {
+                int id = resultSet.getInt("id");
+                String nome = resultSet.getString("nome");
+                System.out.println("ID: " + id + ", Nome: " + nome);
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            // Fechando os recursos (resultSet, statement e connection)
+            try {
+                if (resultSet != null) {
+                    resultSet.close();
+                }
+                if (statement != null) {
+                    statement.close();
+                }
+                if (connection != null) {
+                    connection.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+            </pre>
+            ```
           <li>Utilização do Eclipse como ambiente de desenvolvimento integrado;</li>
           <li>Armazenamento e consulta de dados utilizando o PostgreSQL;</li>
           <li>Gerenciamento do histórico de métricas com o SQLite.</li>
