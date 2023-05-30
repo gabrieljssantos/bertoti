@@ -69,6 +69,7 @@ Durante o projeto, minha contribuição foi focada principalmente no desenvolvim
             console.log(ponto.nome);
             console.log(ponto.descricao);
             console.log(ponto.imagem);
+
         });
         })
         .catch(error => {
@@ -78,7 +79,40 @@ Durante o projeto, minha contribuição foi focada principalmente no desenvolvim
 ```
 </details>
 
-## Aprendizados Efetivos 
+<details><summary>Exemplo de código: Temperatura Atual</summary>
+
+```javascript
+    import React from 'react';
+import { View, Text, StyleSheet } from 'react-native';
+import Proptypes from 'prop-types';
+import { weatherConditions } from '../../components/Util/WeatherCondition';
+
+
+const Weahter = ({ weather, temperature }) => {
+    console.log(temperature)
+    return (
+        <View style={[styles.weatherContainer, { backgroundColor: weatherConditions[weather].color }]}>
+            <View style={styles.headerContainer}>
+                <Text style={styles.tempText}>{temperature}°</Text>
+            </View>
+            <View style={styles.bodyContainer}>
+                <Text style={styles.title}>{weatherConditions[weather].title}</Text>
+                <Text style={styles.subtitle}>{weatherConditions[weather].subtitle}</Text>
+            </View>
+        </View>
+    )
+};
+
+Weahter.Proptypes = {
+    temperature: Proptypes.number.isRequired,
+    weather: Proptypes.string
+}
+
+export default Weahter;
+```
+</details>
+
+## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efeitvos-blue)
 
 Durante o desenvolvimento do projeto Helena, adquiri conhecimentos significativos em diversas áreas. Aprendi a utilizar o framework React Native para desenvolvimento de aplicativos móveis, o que me permitiu criar interfaces intuitivas e responsivas para o aplicativo. Aprofundei meus conhecimentos em JavaScript, especialmente em relação ao uso de Promises e a integração com APIs externas. Também desenvolvi habilidades em design de interface do usuário (UI) e experiência do usuário (UX), trabalhando com o Figma para criar protótipos e garantir uma boa usabilidade no aplicativo. Além disso, aprendi a colaborar efetivamente em uma equipe de desenvolvimento, participando de reuniões, compartilhando ideias e contribuindo para a evolução do projeto. Por fim, destaco a importância da documentação técnica, que me proporcionou uma melhor compreensão do projeto e facilitou a comunicação com outros membros da equipe.
 
