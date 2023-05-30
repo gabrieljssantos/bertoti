@@ -8,14 +8,14 @@ Fatec Prof. Jessen Vidal (proposta realizada pelo docente responsável pela disc
 
 ### *Fatec São José dos Campos*
 
-### Visão do Projeto
+### Visão do Projeto ![Visão do Projeto](https://img.shields.io/badge/-Visão%20Do%20Projeto-blue)
 
 <p align="justify">
 O projeto consiste no desenvolvimento de um aplicativo chamado Helena, uma assistente virtual de viagens. A principal finalidade do aplicativo é fornecer uma experiência otimizada e agradável aos usuários durante suas viagens, oferecendo diversas funcionalidades úteis. Helena é capaz de responder a comandos de voz ou sons específicos, como palmas ou estalar de dedos. Ela possui no mínimo oito ações distintas e de natureza diversa, como mostrar pontos turísticos de uma cidade, abrir o mapa na localização do usuário, exibir um mapa de hotéis disponíveis com preços, permitir a criação de um roteiro pessoal, mostrar o clima e a temperatura atual, fornecer informações detalhadas sobre uma cidade, converter moedas, converter medidas de roupas entre países e traduzir textos para diferentes idiomas. O aplicativo pode ser utilizado em dispositivos móveis, na web ou em desktops, e retorna os comandos em diferentes formas, como som, texto ou ação, de acordo com o contexto específico de aplicação. Para o desenvolvimento do projeto, foram utilizadas tecnologias como React Native, Expo, JavaScript, NodeJs, Chocolatey, Java, Android Studio, Visual Studio Code e Figma.
 </p>
 
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas ![Tecnologias utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-blue)
 
 ### React Native
 
@@ -49,7 +49,7 @@ O Visual Studio Code é um editor de código fonte leve e altamente configuráve
 
 O Figma é uma ferramenta de design de interface do usuário baseada em nuvem. Com o Figma, é possível criar, colaborar e prototipar designs de aplicativos e interfaces de usuário de forma eficiente. No projeto Helena, o Figma é utilizado para criar e visualizar os designs das telas do aplicativo, permitindo uma melhor compreensão e comunicação entre os membros da equipe de desenvolvimento.
 
-## Contribuições pessoais
+## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
 
 <p align="justify">
 Durante o projeto, minha contribuição foi focada principalmente no desenvolvimento da funcionalidade de Pontos Turísticos, onde implementei a lógica para exibir os principais pontos turísticos de uma cidade, utilizando dados fornecidos por uma API. Além disso, também trabalhei na integração do aplicativo com a API de clima para exibir a temperatura e condições climáticas atuais. Participei ativamente das discussões de design e usabilidade, fornecendo sugestões e feedbacks para melhorar a experiência do usuário. Também colaborei na escrita da documentação técnica e na realização de testes e correções de bugs.
