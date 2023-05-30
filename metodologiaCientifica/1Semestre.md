@@ -1,181 +1,95 @@
-<html>
-  <body>
-     <table align="center">
-     <tr>
-      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img></p>
-     </tr>
-    </table>
-  <ol>
-    <h3><li><b>Descrição do Projeto</b></li></h3>
-    <p align="justify">
-      Desenvolvida para ser uma assistente virtual de viagens, Helena responde a comandos de voz e possui como principal objetivo garantir ao usuário uma experiência otimizada e agradável quando estiver viajando. Ela proporciona diversas funcionalidades que podem ser de grande ajuda em certos momentos, desde a busca por pontos turísticos até a conversão de moedas.
-    </p>
-      <ol>
-        <h4><li><b>Objetivo Geral</b></li></h4>
-        <p align="justify">
-        Desenvolver uma assistente virtual capaz de auxiliar o usuário durante suas viagens de forma otimizada e agradável, fornecendo informações úteis e relevantes sobre pontos turísticos, hotéis, clima, conversão de moedas e medidas, além de outras funcionalidades.
-        </p>
-        <h4><li><b>Objetivos Específicos</b></li></h4>
-        <p align="justify">
-        Como objetivos específicos, temos:
-          <ul>
-            <li>Desenvolver um sistema que responda a comandos de voz ou sons específicos (palmas, estalar de dedos, etc);</li>
-            <li>Implementar no mínimo 8 ações distintas e de natureza distintas;</li>
-            <li>Desenvolver um sistema mobile, web ou desktop;</li>
-            <li>Retornar o comando em qualquer forma (som, texto ou ação);</li>
-            <li>Ter um contexto específico de aplicação, focado em viagens e turismo.</li>
-          </ul>
-        </p> 
-        </ol>    
-        <p align="justify">
-        Helena foi criada para atender às necessidades dos amantes de viagens, oferecendo uma experiência personalizada e única para cada usuário, independentemente da cidade ou país que esteja visitando.
-        </p>
-  </ol>
-  <ol start="2"> 
-    <h3><li><b>Tecnologias Utilizadas</b></li></h3>
-<p align="justify">As principais tecnologias utilizadas no seu projeto foram:</p>
-<ul>
-  <li><a href="https://reactnative.dev/">React Native</a></li>
-    <p align="justify">React Native é um framework que permite o desenvolvimento de aplicativos móveis para Android e iOS utilizando a linguagem JavaScript e a biblioteca React. Ele oferece uma série de componentes pré-construídos e é altamente customizável, o que torna o desenvolvimento mais rápido e eficiente.</p>
-  <li><a href="https://expo.io/">Expo</a></li>
-    <p align="justify">Expo é uma plataforma para desenvolvimento de aplicativos móveis que facilita o processo de construção, teste e distribuição de aplicativos. Ele oferece diversas ferramentas úteis para desenvolvedores, como um ambiente de desenvolvimento integrado (IDE), uma biblioteca de componentes pré-construídos e um sistema de gerenciamento de dependências.</p>
-  <li><a href="https://www.javascript.com/">JavaScript</a></li>
-    <p align="justify">JavaScript é uma linguagem de programação utilizada para desenvolver aplicativos web e móveis, além de ser muito utilizada para programação em geral. Ela é a base do React Native e outras tecnologias modernas de desenvolvimento web e móvel.</p>
-  <li><a href="https://nodejs.org/en/">NodeJs</a></li>
-    <p align="justify">NodeJs é um ambiente de execução JavaScript que permite a execução de códigos JavaScript no servidor. Ele é muito utilizado para construir aplicações web em tempo real, APIs RESTful e microservices.</p>
-  <li><a href="https://chocolatey.org/">Chocolatey</a></li>
-    <p align="justify">Chocolatey é um gerenciador de pacotes para Windows que permite a instalação, atualização e desinstalação de programas de maneira automatizada.</p>
-  <li><a href="https://www.java.com/pt-BR/">Java</a></li>
-    <p align="justify">Java é uma linguagem de programação orientada a objetos muito utilizada para desenvolvimento de aplicativos empresariais e soluções de back-end. Ela é utilizada em conjunto com o Android Studio para desenvolvimento de aplicativos Android.</p>
-  <li><a href="https://developer.android.com/studio">Android Studio</a></li>
-    <p align="justify">Android Studio é um ambiente de desenvolvimento integrado (IDE) para o desenvolvimento de aplicativos Android. Ele é baseado no IntelliJ IDEA e oferece ferramentas avançadas para desenvolvimento de aplicativos, como emuladores de dispositivos Android, um depurador integrado e suporte para diversas linguagens de programação.</p>
-  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-    <p align="justify">Visual Studio Code é um editor de código-fonte gratuito e multiplataforma desenvolvido pela Microsoft. Ele é muito utilizado para desenvolvimento web, oferecendo diversas extensões e ferramentas úteis para desenvolvedores.</p>
-  <li><a href="https://www.figma.com/">Figma</a></li>
-    <p align="justify">Figma é uma ferramenta de design de interfaces de usuário baseada em nuvem, permitindo que designers e desenvolvedores colaborem no mesmo projeto em tempo real. Ele é muito utilizado para criar wireframes,
-  </ol>
-  <ol start="3">
-    <h3><li><b>Funcionalidades</b></li></h3>
-      <p align="justify">
-        O sistema possui as seguintes funcionalidades:
-        <ul>
-          <li><b>Pontos turísticos:</b> Mostra os principais pontos turísticos de uma cidade.</li>
-          <li><b>Onde Estou:</b> Responsável por abrir o mapa na localização do usuário.</li>
-          <li><b>Mapa de Hotéis:</b> Mostra um mapa de hotéis disponíveis em uma cidade, bem como o preço.</li>
-          <li><b>Roteiro Pessoal:</b> Dá ao usuário a possibilidade de criar um roteiro de tarefas.</li>
-          <li><b>Clima:</b> Visualiza o clima e a temperatura atual da sua localização.</li>
-          <li><b>Saiba Mais:</b> Mostra imagens, dados curiosos, a história e uma visão atual de alguma cidade.</li>
-          <li><b>Conversor de Moedas:</b> Ferramenta de conversão de valores monetários.</li>
-          <li><b>Conversor de Medidas:</b> Ferramenta que converte os valores de medidas de roupas entre os países.</li>
-          <li><b>Tradutor:</b> Traduz para língua desejada.</li>
-        </ul>
-      </p>
-  </ol>
-  
-  <ol start="4">
-    <h3><li><b>Lições Aprendidas</b></li></h3>
-      <p align="justify">
-        <b>Habilidades Técnicas (Hard Skills)</b><br>
-        Durante o desenvolvimento deste projeto, foram adquiridas as seguintes habilidades técnicas:
-        <ul>
-          <li>Desenvolvimento de aplicativos móveis usando React Native e Expo;</li>
-          <details><summary>Criação Conversor de Moedas</summary>
+# Projeto 1: 1º Semestre de 2021
 
-      > Aqui temos a criação e configuração do conversor de moeda.
+### Parceiro Acadêmico
 
-      ```
-      import React from "react";
-      import { StyleSheet, Text, View, TextInput, TouchableOpacity, Image, Keyboard} from "react-native";
+Fatec Prof. Jessen Vidal (proposta realizada pelo docente responsável pela disciplina que ordenou o projeto) <br/>
 
-      import api from "../../services/api";
+![image](https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png) 
 
-      export default class Converter extends React.Component {
-        constructor(props) {
-          super(props);
-          this.state = {
-            coinA: props.coinA,
-            coinB: props.coinB,
-            coinA_value: 0,
-            convertedValue: 0,
-          };
+### *Fatec São José dos Campos*
 
-          this.converter = this.converter.bind(this);
-        }
+### Visão do Projeto
 
-        async converter() {
-          let from_to = this.state.coinA + "_" + this.state.coinB;
-
-          const response = await api.get(
-            `convert?q=${from_to}&compact=ultra&apiKey=d8148018a3851e72d0e5`
-          );
-
-          let price = response.data[from_to];
-
-          let result = price * parseFloat(this.state.coinA_value);
-
-          this.setState({ convertedValue: result.toFixed(2) });
-          Keyboard.dismiss();
-        }
-
-        render() {
-          const { coinA, coinB } = this.props;
-
-          return (
-            <View style={styles.container}>
-              <Text style={styles.rodape}>Conversor de Moedas! </Text>
-              <Text style={styles.title}>
-                {coinA} para {coinB}
-              </Text>
-
-              <TextInput
-                placeholder="Valor a ser convertido"
-                placeholderTextColor="#f9a23c"
-                style={styles.input}
-                keyboardType="numeric"
-                onChangeText={(coinA_value) => this.setState({ coinA_value })}
-              />
-
-              <TouchableOpacity style={styles.btn} onPress={this.converter}>
-                <Text style={styles.btnText}>Converter</Text>
-              </TouchableOpacity>
-              <Text style={styles.title2}> Valor convertido </Text> 
-              <Text style={styles.moeda}> R${" "}
-              <Text style={styles.convertedValue}> 
-                {this.state.convertedValue === 0 ? "0,00" : this.state.convertedValue}
-                
-                </Text>
-              </Text>
-            </View>
-          );
-        }
-      }
+<p align="justify">
+O projeto consiste no desenvolvimento de um aplicativo chamado Helena, uma assistente virtual de viagens. A principal finalidade do aplicativo é fornecer uma experiência otimizada e agradável aos usuários durante suas viagens, oferecendo diversas funcionalidades úteis. Helena é capaz de responder a comandos de voz ou sons específicos, como palmas ou estalar de dedos. Ela possui no mínimo oito ações distintas e de natureza diversa, como mostrar pontos turísticos de uma cidade, abrir o mapa na localização do usuário, exibir um mapa de hotéis disponíveis com preços, permitir a criação de um roteiro pessoal, mostrar o clima e a temperatura atual, fornecer informações detalhadas sobre uma cidade, converter moedas, converter medidas de roupas entre países e traduzir textos para diferentes idiomas. O aplicativo pode ser utilizado em dispositivos móveis, na web ou em desktops, e retorna os comandos em diferentes formas, como som, texto ou ação, de acordo com o contexto específico de aplicação. Para o desenvolvimento do projeto, foram utilizadas tecnologias como React Native, Expo, JavaScript, NodeJs, Chocolatey, Java, Android Studio, Visual Studio Code e Figma.
+</p>
 
 
-      ```
+## Tecnologias utilizadas
+
+### React Native
+
+React Native é um framework de desenvolvimento de aplicativos móveis multiplataforma, que permite criar aplicativos nativos para iOS e Android utilizando JavaScript. Ele utiliza a biblioteca React para construir a interface do usuário, permitindo o reuso de componentes e a criação de aplicativos com aparência e desempenho nativos. O React Native é amplamente utilizado no desenvolvimento de aplicativos móveis modernos e oferece uma experiência de desenvolvimento eficiente e rápida.
+
+### Expo
+
+Expo é uma plataforma de código aberto para o desenvolvimento de aplicativos móveis com React Native. Ela fornece um conjunto de ferramentas e serviços que simplificam o processo de desenvolvimento, permitindo criar aplicativos sem a necessidade de configurar e gerenciar um ambiente de desenvolvimento nativo. O Expo oferece recursos como hot reloading, acesso a APIs nativas do dispositivo, compartilhamento fácil do aplicativo em desenvolvimento e muito mais.
+
+### JavaScript
+
+JavaScript é uma linguagem de programação amplamente utilizada em desenvolvimento web, análise de dados, inteligência artificial, automação de tarefas e outras áreas. Com sua sintaxe simples e intuitiva, é uma linguagem popular entre os desenvolvedores. No contexto do projeto Helena, o JavaScript é utilizado para o desenvolvimento de aplicativos móveis com React Native, aproveitando as bibliotecas e frameworks disponíveis nesse ecossistema.
+
+### Node.js
+
+Node.js é um ambiente de execução de JavaScript que permite rodar o código JavaScript no servidor. É amplamente utilizado no de ambientes de desenvolvimento e facilita a instalação de ferramentas e dependências necessárias para o desenvolvimento do projeto Helena.
+
+### Java
+
+Java é uma linguagem de programação popular e amplamente utilizada, especialmente no desenvolvimento de aplicativos Android. Com o uso do Java, é possível criar aplicativos móveis nativos e aproveitar recursos específicos da plataforma Android. No projeto Helena, o Java é utilizado em conjunto com o Android Studio para o desenvolvimento da versão Android do aplicativo.
+
+### Android Studio
+
+O Android Studio é o ambiente de desenvolvimento oficial para a plataforma Android. Ele fornece ferramentas poderosas para o desenvolvimento de aplicativos Android, incluindo um editor de código avançado, depurador, emulador de dispositivo e muito mais. O Android Studio é utilizado no projeto Helena para a criação e teste da versão Android do aplicativo.
+
+### Visual Studio Code
+
+O Visual Studio Code é um editor de código fonte leve e altamente configurável, desenvolvido pela Microsoft. Ele oferece uma ampla gama de recursos e extensões que facilitam o desenvolvimento de aplicativos em diferentes linguagens de programação. No projeto Helena, o Visual Studio Code é utilizado como ambiente de desenvolvimento para escrever e editar o código fonte do projeto.
+
+### Figma
+
+O Figma é uma ferramenta de design de interface do usuário baseada em nuvem. Com o Figma, é possível criar, colaborar e prototipar designs de aplicativos e interfaces de usuário de forma eficiente. No projeto Helena, o Figma é utilizado para criar e visualizar os designs das telas do aplicativo, permitindo uma melhor compreensão e comunicação entre os membros da equipe de desenvolvimento.
+
+## Contribuições pessoais
+
+<p align="justify">
+Durante o projeto, minha contribuição foi focada principalmente no desenvolvimento da funcionalidade de Pontos Turísticos, onde implementei a lógica para exibir os principais pontos turísticos de uma cidade, utilizando dados fornecidos por uma API. Além disso, também trabalhei na integração do aplicativo com a API de clima para exibir a temperatura e condições climáticas atuais. Participei ativamente das discussões de design e usabilidade, fornecendo sugestões e feedbacks para melhorar a experiência do usuário. Também colaborei na escrita da documentação técnica e na realização de testes e correções de bugs.
+</p>
+
+<details><summary>Exemplo de código: Pontos Turísticos</summary>
+
+```javascript
+    // Função para obter os pontos turísticos de uma cidade
+    function getPontosTuristicos(cidade) {
+    // Chamada à API para obter os pontos turísticos
+    fetch(`https://api.exemplo.com/pontos-turisticos?cidade=${cidade}`)
+        .then(response => response.json())
+        .then(data => {
+        // Exibir os pontos turísticos na interface do usuário
+        data.pontos.forEach(ponto => {
+            console.log(ponto.nome);
+            console.log(ponto.descricao);
+            console.log(ponto.imagem);
+        });
+        })
+        .catch(error => {
+        console.error('Erro ao obter pontos turísticos:', error);
+        });
+    }
+```
 </details>
-          <li>Programação em JavaScript e NodeJs;</li>
-          <li>Uso de ferramentas como Chocolatey, Java, Android Studio e Visual Studio Code;</li>
-          <li>Criação de interfaces de usuário usando Figma.</li>
-        </ul>
-        <br>
-        <b>Habilidades Interpessoais (Soft Skills)</b><br>
-        Além disso, também foram desenvolvidas as seguintes habilidades interpessoais:
-        <ul>
-          <li>Trabalho em equipe, já que o projeto envolveu múltiplos desenvolvedores;</li>
-          <li>Comunicação eficaz para garantir que os requisitos do projeto sejam compreendidos e implementados corretamente;</li>
-          <li>Gerenciamento do tempo e priorização de tarefas para cumprir os prazos estabelecidos;</li>
-          <li>Resolução de problemas e tomada de decisões, já que o projeto envolveu lidar com desafios técnicos e decisões sobre a melhor abordagem para implementar as funcionalidades desejadas;</li>
-          <li>Flexibilidade e adaptabilidade, já que o projeto exigiu a aprendizagem de novas tecnologias e a capacidade de se adaptar a mudanças nos requisitos do projeto.</li>
-        </ul>
-      </p>
-  </ol>
-  
-  <ol start="5">
-    <h3><li><b>Considerações Finais</b></li></h3>
-      <p align="justify">
-      O Assistente Virtual - Helena foi desenvolvido com o objetivo de facilitar a vida dos usuários durante as suas viagens, fornecendo informações precisas e atualizadas sobre pontos turísticos, hotéis, clima, conversão de moedas, medidas e tradução. Além disso, o sistema foi desenvolvido para responder a comandos de voz ou sons específicos, como palmas e estalar de dedos, e pode ser utilizado em dispositivos mobile, web ou desktop. Esperamos que a utilização do sistema possa proporcionar uma experiência agradável e otimizada para todos os usuários.
-      </p>
-  </ol>
-  
-</body>
-</html>
+
+## Aprendizados Efetivos 
+
+Durante o desenvolvimento do projeto Helena, adquiri conhecimentos significativos em diversas áreas. Aprendi a utilizar o framework React Native para desenvolvimento de aplicativos móveis, o que me permitiu criar interfaces intuitivas e responsivas para o aplicativo. Aprofundei meus conhecimentos em JavaScript, especialmente em relação ao uso de Promises e a integração com APIs externas. Também desenvolvi habilidades em design de interface do usuário (UI) e experiência do usuário (UX), trabalhando com o Figma para criar protótipos e garantir uma boa usabilidade no aplicativo. Além disso, aprendi a colaborar efetivamente em uma equipe de desenvolvimento, participando de reuniões, compartilhando ideias e contribuindo para a evolução do projeto. Por fim, destaco a importância da documentação técnica, que me proporcionou uma melhor compreensão do projeto e facilitou a comunicação com outros membros da equipe.
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] React
+- [x] React Native
+- [x] API Integration
+- [x] UI/UX Design
+- [x] Collaboration and teamwork
+- [x] Documentation
+
+
