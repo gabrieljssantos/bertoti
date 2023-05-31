@@ -55,7 +55,7 @@ O Figma é uma ferramenta de design de interface do usuário baseada em nuvem. C
 Durante o projeto, minha contribuição foi focada principalmente no desenvolvimento da funcionalidade de Pontos Turísticos, onde implementei a lógica para exibir os principais pontos turísticos de uma cidade, utilizando dados fornecidos por uma API. Além disso, também trabalhei na integração do aplicativo com a API de clima para exibir a temperatura e condições climáticas atuais. Participei ativamente das discussões de design e usabilidade, fornecendo sugestões e feedbacks para melhorar a experiência do usuário. Também colaborei na escrita da documentação técnica e na realização de testes e correções de bugs.
 </p>
 
-<details><summary>Exemplo de código: Pontos Turísticos</summary>
+![Leia Mais](https://img.shields.io/badge/-Leia%20Mais-orange) <details><summary>Exemplo de código: Pontos Turísticos</summary>
 
 ```javascript
     // Função para obter os pontos turísticos de uma cidade
