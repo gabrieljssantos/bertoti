@@ -1,30 +1,3 @@
-# Gabriel José Souza dos Santos
-
-## Introdução
-
-Olá, seja bem-vindo. Sou o Gabriel Santos, 20 anos e estudante de Banco de Dados pela FATEC Prof. Jessen Vidal. 
-
-Atualmente trabalho como Web Analytics em uma equipe de performance dentro de uma agência de marketing. As decisões são baseadas em dados que foram coletados e analisados após o processo de ETL, sendo movidos de maneira data-driven.<br/>
-
-<img src="https://user-images.githubusercontent.com/48994698/190278536-70fb9cac-daac-4ac2-ae46-cbdba49da90b.jpg" height="450" width="350"/>
-
-
-##### *Figura 00. Eu*
-
-### Meus principais conhecimentos
-
-#### JavaScript
-Durante meu dia a dia como Web Analytics, utilizo Javascript para resolução de problemas e criação de scripts para soluções propias para determinada necessidade que a empresa venha a precisar. No ambiente WEB, o Javascript é utilizado em diversas pontas de acordo com as necessidades que apareça. Um exemplo é a utilização para Extração do dados, manipulações do DOM em páginas web e até mesmo a utilização de cookies para obtermos dados personalizados de determinado usuário.
-
-#### Python
-A utilização de Python pode ser feita em todo processo do ETL (Extract, Transform e Load). Na parte de Extrack, podemos utilizar Web-Scraping para coleta de dados da web, de sites, onde são usados scripts e programas para “raspar”. Após o Transform, onde tratamos os dados, podemos utilizar os mesmos para realizarmos análises. Essas análises são transformadas em atitudes que beneficiaram a empresa, e da mesma forma podemos utilizar para realizar predições baseado nesses dados que já foram coletados.
-
-#### Projetos Integradores durante a graduação 
-Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Durante os semestres os grupos recebem a necessidade real de uma empresa, onde o representante da empresa nos explica o que precisam, afim de desenvolvermos a solução
-O processo é dividido em Sprints, e acontece aplicação de metodologias ágeis, como SCRUM e Kanban.
-O projeto é acompanhado pelo representante da empresa em reuniões periódicas, para se atualizar do desenvolvimento do projeto, e se cumpre os requisitos necessários que são desenvolvidos com os conhecimentos adquiridos durante o curso. Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta (e entregue), e os aprendizamos extraídos de cada um deles.
-
-
 # Projeto 3 - 3º semestre de 2022
 ## Empresa parceira:
 MidAll
