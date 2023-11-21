@@ -1,4 +1,4 @@
-# Projeto 3 - 3º semestre de 2022
+# Projeto 3 - 3º semestre
 ## Empresa parceira:
 MidAll
 
