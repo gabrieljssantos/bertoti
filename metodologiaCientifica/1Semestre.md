@@ -1,4 +1,4 @@
-# Projeto 1: 1º Semestre de 2021
+# Projeto 1: 1º Semestre
 
 ### Parceiro Acadêmico
 
