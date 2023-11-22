@@ -48,7 +48,13 @@ Durante o projeto, minha contribuição foi focada na área de dados, onde foi u
 
 ## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efeitvos-blue)
 
-lorem ipsum
+- **Tratamento de dados com Python:** Realizei a etapa de tratamento de dados utilizando Python, aplicando transformações e manipulações nos dados para prepará-los para análise e visualização. Isso incluiu a limpeza de dados inconsistentes e a padronização de formatos.
+- **Consultas SQL:** Aprofundei-me em consultas SQL para extrair informações específicas do Microsoft SQL Server, otimizando consultas para obter dados relevantes para o projeto. Isso envolveu o uso de junções complexas e subconsultas para análises detalhadas.
+- **Azure e Integrações:** Explorei mais afundo os serviços oferecidos pela plataforma Azure da Microsoft e suas possibilidades de integração com as ferramentas existentes no projeto. Isso incluiu a compreensão de como os serviços em nuvem podem ser usados para armazenamento, processamento e integração de dados.
+Essa introdução ao Azure e às suas capacidades de integração trouxe perspectivas valiosas sobre as possibilidades de expansão e escalabilidade para projetos futuros.
+- **Configuração avançada no Grafana:** Explorei a criação de dashboards altamente personalizados para monitorar a saúde da aplicação, utilizando variáveis, alertas e fontes de dados variadas. Isso incluiu a criação de painéis dinâmicos para acompanhar métricas em tempo real.
+- **Integração do LookerStudio com fontes de dados em Nuvem (Azure):** Aprendi a integrar e visualizar dados complexos da aplicação dentro do LookerStudio, facilitando a análise de métricas cruciais para o projeto. Isso envolveu a criação de visualizações interativas para melhorar a compreensão dos dados.
+
 - [x] Microsoft SQL Server
 - [x] Python
 - [x] Vue.js
@@ -56,6 +62,7 @@ lorem ipsum
 - [x] JavaScript
 - [x] Docker
 - [x] Figma
+- [x] Azure
 - [x] Grafana
 
 
