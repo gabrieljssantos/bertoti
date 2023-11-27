@@ -23,7 +23,7 @@ React Native é um framework de desenvolvimento de aplicativos móveis multiplat
 
 ### Expo
 
-Expo é uma plataforma de código aberto para o desenvolvimento de aplicativos móveis com React Native. Ela fornece um conjunto de ferramentas e serviços que simplificam o processo de desenvolvimento, permitindo criar aplicativos sem a necessidade de configurar e gerenciar um ambiente de desenvolvimento nativo. O Expo oferece recursos como hot reloading, acesso a APIs nativas do dispositivo, compartilhamento fácil do aplicativo em desenvolvimento e muito mais.
+Expo é uma plataforma de código aberto para o desenvolvimento de aplicativos móveis com React Native e fornece um conjunto de ferramentas e serviços que simplificam o processo de desenvolvimento, permitindo criar aplicativos sem a necessidade de configurar e gerenciar um ambiente de desenvolvimento nativo. O Expo oferece recursos como hot reloading, acesso a APIs nativas do dispositivo, compartilhamento fácil do aplicativo em desenvolvimento e muito mais.
 
 ### JavaScript
 
@@ -39,11 +39,11 @@ Java é uma linguagem de programação popular e amplamente utilizada, especialm
 
 ### Android Studio
 
-O Android Studio é o ambiente de desenvolvimento oficial para a plataforma Android. Ele fornece ferramentas poderosas para o desenvolvimento de aplicativos Android, incluindo um editor de código avançado, depurador, emulador de dispositivo e muito mais. O Android Studio é utilizado no projeto Helena para a criação e teste da versão Android do aplicativo.
+O Android Studio é o ambiente de desenvolvimento oficial para a plataforma Android e fornece ferramentas poderosas para o desenvolvimento de aplicativos Android, incluindo um editor de código avançado, depurador, emulador de dispositivo e muito mais. O Android Studio é utilizado no projeto Helena para a criação e teste da versão Android do aplicativo.
 
 ### Visual Studio Code
 
-O Visual Studio Code é um editor de código fonte leve e altamente configurável, desenvolvido pela Microsoft. Ele oferece uma ampla gama de recursos e extensões que facilitam o desenvolvimento de aplicativos em diferentes linguagens de programação. No projeto Helena, o Visual Studio Code é utilizado como ambiente de desenvolvimento para escrever e editar o código fonte do projeto.
+O Visual Studio Code é um editor de código fonte leve e altamente configurável, desenvolvido pela Microsoft e oferece uma ampla gama de recursos e extensões que facilitam o desenvolvimento de aplicativos em diferentes linguagens de programação. No projeto Helena, o Visual Studio Code é utilizado como ambiente de desenvolvimento para escrever e editar o código fonte do projeto.
 
 ### Figma
 
