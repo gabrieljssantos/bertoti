@@ -38,9 +38,9 @@ Interface para criação das promoções.
 ### Contribuições pessoais
 Durante o desenvolvido desse projeto para MidAll no 3ºSemestre, atuei em todo processo da criação do projeto, participando do back-end e principalmente do front-end.
 
-Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. A aplicação de User-Experience para conseguirmos facilitar a utilização dos usuarios, para que com poucos cliques possamos suprir a necessidade do cliente. 
+Minha realização no front-end esteve presente na criação de interfaces, aplicando UI/UX Design, sempre pensando na utilização pelo nosso cliente. O aprimoramento na Experiência do Usuário visa simplificar a interação dos usuários, permitindo atender às necessidades do cliente com poucos cliques
 
-Para que possamos facilitar a jornada do usuario em nosso projeto, necessitamos de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
+Para facilitar a jornada do usuario neste projeto, necessitou-se de uma boa interface grafica (UI), para uma interface agradavel visualmente para o cliente, entregando mais valor para o mesmo. 
 
 Outra contribuição no front-end, foi principalmente nas requisições http do projeto, planejando o fluxo de dados entre: Back-End, Banco de dados e Front-End, realizando POSTs e GETs, por exemplo, de acordo com as necessidades. <br>
   <details>
@@ -48,7 +48,7 @@ Outra contribuição no front-end, foi principalmente nas requisições http do 
     - No exemplo acima, foi utilizado AJAX para realizar o POST. Citando algum dos pontos mais importantes para essa Requisição POST, começando pela URL do EndPoint que será enviado o POST. O Endpoint é uma forma de comunicação, um nó de rede de comunicação. É uma interface exposta por uma parte comunicante ou por um canal de comunicaçã
   </details>
 
-No back-end, contriubui na criação e planejamento dos end-points,0 que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessarias. 
+No back-end, contriubui na criação e planejamento dos end-points, que foram utilizados posteriomente no front-end conforme as necessidades. Para isso foi utilizado Java com o framework Quarkus, assim realizando as requisições necessárias. 
 
 ## Aprendizados Efetivos HS
 
