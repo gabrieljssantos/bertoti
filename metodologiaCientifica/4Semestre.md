@@ -11,7 +11,7 @@ Cliente: Subiter (proposta realizada pelo docente responsável pela disciplina q
 ### Visão do Projeto ![Visão do Projeto](https://img.shields.io/badge/-Visão%20Do%20Projeto-blue)
 
 <p align="justify">
-Temos o desafio de sincronizar os dados administrativos, financeiros e operacionais relacionados aos serviços prestados pela empresa Subiter. A falta de organização desses dados resulta em lentidão para atender chamados e confusão na interpretação dos indicadores comerciais e financeiros.
+O projeto consiste em sincronizar os dados administrativos, financeiros e operacionais relacionados aos serviços prestados pela empresa Subiter. A falta de organização desses dados resulta em lentidão para atender chamados e confusão na interpretação dos indicadores comerciais e financeiros.
 </p>
 
 ## Tecnologias utilizadas ![Tecnologias utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-blue)
@@ -68,7 +68,7 @@ export default Weahter;
 
 ## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efeitvos-blue)
 
-Durante o desenvolvimento do projeto Helena, adquiri conhecimentos significativos em diversas áreas. Aprendi a utilizar o framework React Native para desenvolvimento de aplicativos móveis, o que me permitiu criar interfaces intuitivas e responsivas para o aplicativo. Aprofundei meus conhecimentos em JavaScript, especialmente em relação ao uso de Promises e a integração com APIs externas. Também desenvolvi habilidades em design de interface do usuário (UI) e experiência do usuário (UX), trabalhando com o Figma para criar protótipos e garantir uma boa usabilidade no aplicativo. Além disso, aprendi a colaborar efetivamente em uma equipe de desenvolvimento, participando de reuniões, compartilhando ideias e contribuindo para a evolução do projeto. Por fim, destaco a importância da documentação técnica, que me proporcionou uma melhor compreensão do projeto e facilitou a comunicação com outros membros da equipe.
+Durante o desenvolvimento do projeto Helena, adquiri conhecimentos significativos em diversas áreas. Aprendi a utilizar o framework React Native para desenvolvimento de aplicativos móveis, o que me permitiu criar interfaces intuitivas e responsivas para o aplicativo. Aprofundei meus conhecimentos em JavaScript, especialmente em relação ao uso de Promises e a integração com APIs externas. Também desenvolvi habilidades em design de interface do usuário (UI) e experiência do usuário, (UX), trabalhando com o Figma para criar protótipos e garantir uma boa usabilidade no aplicativo. Além disso, aprendi a colaborar efetivamente em uma equipe de desenvolvimento, participando de reuniões, compartilhando ideias e contribuindo para a evolução do projeto. Por fim, destaco a importância da documentação técnica, que me proporcionou uma melhor compreensão do projeto e facilitou a comunicação com outros membros da equipe.
 
 - [x] Java
 - [x] Vue.js
