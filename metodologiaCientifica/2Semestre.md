@@ -8,7 +8,7 @@
   <ol>
     <h3><li><b>Descrição do Projeto</b></li></h3>
     <p align="justify">
-    O desafio consiste em apresentar para o cliente Necto Systems uma solução para o monitoramento de um ou mais SGBDs remotos, bem como na coleta de métricas de funcionamento dos Banco de Dados presentes nos servidores da empresa. O objetivo da equipe foi desenvolver um software integrado que monitore e apresente métricas referentes ao uso e à saúde do SGBD em tempo real, além de oferecer um pós-gerenciamento de múltiplos BDs no servidor como diferencial.
+    O projeto consiste em apresentar para o cliente Necto Systems uma solução para o monitoramento de um ou mais SGBDs remotos, bem como na coleta de métricas de funcionamento dos Banco de Dados presentes nos servidores da empresa. O objetivo foi desenvolver um software integrado que monitore e apresente métricas referentes ao uso e à saúde do SGBD em tempo real, além de oferecer um pós-gerenciamento de múltiplos BDs no servidor como diferencial.
     </p>
       <ol>
         <h4><li><b>Objetivo Geral</b></li></h4>
@@ -36,13 +36,13 @@
 <p align="justify">As principais tecnologias utilizadas no projeto foram:</p>
 <ul>
   <li>PostgreSQL</li>
-    <p align="justify">PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Foi utilizado neste projeto para armazenar os dados coletados e oferecer suporte ao monitoramento dos SGBDs.</p>
+    <p align="justify">PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. É utilizado para armazenar os dados coletados e oferecer suporte ao monitoramento dos SGBDs.</p>
   <li>Java</li>
     <p align="justify">Java é uma linguagem de programação amplamente utilizada para desenvolvimento de aplicações. Foi escolhida como linguagem principal para implementação do software de monitoramento.</p>
   <li>Eclipse</li>
     <p align="justify">Eclipse é uma IDE (Integrated Development Environment) utilizada para desenvolvimento de software em diversas linguagens,
 <li>JDBC</li>
-    <p align="justify">JDBC (Java Database Connectivity) é uma API do Java que fornece uma interface para conectar e interagir com bancos de dados relacionais. Foi utilizado neste projeto para estabelecer a conexão com o banco de dados PostgreSQL.</p>
+    <p align="justify">JDBC (Java Database Connectivity) é uma API do Java que fornece uma interface para conectar e interagir com bancos de dados relacionais. É utilizado para estabelecer a conexão com o banco de dados PostgreSQL.</p>
   <li>SQLite</li>
     <p align="justify">SQLite é um sistema de gerenciamento de banco de dados relacional embutido. Foi utilizado neste projeto para armazenar e gerenciar o histórico de métricas coletadas.</p>
 </ul>
@@ -145,7 +145,7 @@ public class JDBCExample {
   <ol start="5">
   <h3><li><b>Considerações Finais</b></li></h3>
   <p align="justify">
-  Durante o desenvolvimento do projeto Necto Systems, a equipe teve a oportunidade de enfrentar desafios técnicos e aprimorar suas habilidades tanto em termos de conhecimentos técnicos quanto de trabalho em equipe. O desenvolvimento de um software integrado para monitoramento de SGBDs remotos e coleta de métricas em tempo real exigiu a aplicação de conceitos de programação Java, gerenciamento de bancos de dados relacionais e uso de ferramentas como o Eclipse e JDBC. 
+  Durante o desenvolvimento do projeto Necto Systems, a oportunidade de enfrentar desafios técnicos e aprimorar suas habilidades tanto em termos de conhecimentos técnicos quanto de trabalho em equipe. O desenvolvimento de um software integrado para monitoramento de SGBDs remotos e coleta de métricas em tempo real exigiu a aplicação de conceitos de programação Java, gerenciamento de bancos de dados relacionais e uso de ferramentas como o Eclipse e JDBC. 
     </ol>
     </body>
     </html>
