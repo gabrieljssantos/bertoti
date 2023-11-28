@@ -1,4 +1,4 @@
-# Projeto 4 - 4º semestre de 2022
+# Projeto 4 - 4º semestre
 ## Empresa parceira: Subiter 
 
 <img src="https://pqtec.org.br/wpfiles/wp-content/uploads/2020/12/462ae875d43efe63a5d1.png" height="150"/>
