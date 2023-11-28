@@ -1,12 +1,10 @@
-# Projeto Integrador: Fatec Prof. Jessen Vidal - 2022, 4° Semestre
+# Projeto 4 - 4º semestre de 2022
+## Empresa parceira: Subiter 
 
-### Parceiro Acadêmico
+<img src="https://pqtec.org.br/wpfiles/wp-content/uploads/2020/12/462ae875d43efe63a5d1.png" height="150"/>
 
-Cliente: Subiter (proposta realizada pelo docente responsável pela disciplina que ordenou o projeto) <br/>
 
-<img src="https://pqtec.org.br/wpfiles/wp-content/uploads/2020/12/462ae875d43efe63a5d1.png" width=55%></img>
-
-### Cliente: Subiter
+###*Figura 11. Subiter (Fonte: https://www.subiter.com/)*
 
 ### Visão do Projeto ![Visão do Projeto](https://img.shields.io/badge/-Visão%20Do%20Projeto-blue)
 
@@ -14,59 +12,43 @@ Cliente: Subiter (proposta realizada pelo docente responsável pela disciplina q
 O projeto consiste em sincronizar os dados administrativos, financeiros e operacionais relacionados aos serviços prestados pela empresa Subiter. A falta de organização desses dados resulta em lentidão para atender chamados e confusão na interpretação dos indicadores comerciais e financeiros.
 </p>
 
+
 ## Tecnologias utilizadas ![Tecnologias utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-blue)
 
-### Java
+- **Java** é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si.
+ 
+- **Vue.js** é um framework JavaScript, flexível e reativo que ajuda os desenvolvedores a construir interfaces de usuário escaláveis e reutilizáveis, tornando o desenvolvimento de aplicativos mais eficiente e intuitivo.
 
-Java é uma linguagem de programação popular e amplamente utilizada, especialmente no desenvolvimento de aplicativos Android. Com o uso do Java, é possível criar aplicativos móveis nativos e aproveitar recursos específicos da plataforma Android. No projeto, o Java é utilizado em conjunto com o Android Studio para o desenvolvimento da versão Android do aplicativo.
+- **PL/SQL** é uma linguagem procedural específica para o banco de dados Oracle. É utilizada para a criação e sincronização dos dados, proporcionando uma gestão eficiente das informações da empresa Subiter.
 
-### Vue.js
+- **JavaScript** é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma
 
-Vue.js é um framework JavaScript progressivo para a construção de interfaces de usuário. É eficiente no desenvolvimento de interfaces interativas e é utilizado no front-end para entrada e interpretação de dados na plataforma web.
-
-### PL/SQL
-
-PL/SQL é uma linguagem procedural específica para o banco de dados Oracle. É utilizada para a criação e sincronização dos dados, proporcionando uma gestão eficiente das informações da empresa Subiter.
-
-### GIT
-
-GIT é um sistema de controle de versão distribuído utilizado para gerenciar o código-fonte do projeto, facilitando a colaboração entre os membros da equipe.
-
-## Requisitos ![Requisitos](https://img.shields.io/badge/-Requisitos-blue)
-
-### Requisitos Funcionais
-
-- Cadastros de usuários e horários
-- Cadastros de produtos do cliente (modelo, número de série etc.)
-- Usuários devem ter perfis diferentes (administrador, suporte, cliente)
-- Registro de chamados
-- Acompanhamento de chamados de ponta a ponta
-- Front-end para entrada e interpretação de dados
-- Ferramenta para criação (desenho) e visualização dos "Mapas de Anomalias"
-
-### Requisitos Não Funcionais
-
-- Linguagem Java Web Server-Side
-- Vue.js ou Flutter
-- PL / SQL
-- GIT
+- **GIT** é um sistema de controle de versão distribuído utilizado para gerenciar o código-fonte do projeto, facilitando a colaboração entre os membros da equipe.
 
 
 ## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
 
 <p align="justify">
-Durante o projeto, minha contribuição foi focada principalmente no desenvolvimento da funcionalidade de Pontos Turísticos, onde implementei a lógica para exibir os principais pontos turísticos de uma cidade, utilizando dados fornecidos por uma API. Além disso, também trabalhei na integração do aplicativo com a API de clima para exibir a temperatura e condições climáticas atuais. Participei ativamente das discussões de design e usabilidade, fornecendo sugestões e feedbacks para melhorar a experiência do usuário. Também colaborei na escrita da documentação técnica e na realização de testes e correções de bugs.
+Como Product Owner, meu papel central foi garantir a representação e tradução das necessidades do cliente para o time de desenvolvimento. Fui responsável por definir prioridades, detalhar funcionalidades e garantir o alinhamento do produto com as expectativas do cliente e os objetivos de negócio. Participei ativamente das discussões estratégicas, oferecendo insights valiosos para o desenvolvimento de funcionalidades cruciais para a experiência do usuário e para o sucesso do produto como um todo.
 </p>
 
-<details><summary>Exemplo de códigos</summary>
-
-```java
-###
-```
-export default Weahter;
-</details>
 
 ## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efeitvos-blue)
 
-Durante o desenvolvimento do projeto Helena, adquiri conhecimentos significativos em diversas áreas. Aprendi a utilizar o framework React Native para desenvolvimento de aplicativos móveis, o que me permitiu criar interfaces intuitivas e responsivas para o aplicativo. Aprofundei meus conhecimentos em JavaScript, especialmente em relação ao uso de Promises e a integração com APIs externas. Também desenvolvi habilidades em design de interface do usuário (UI) e experiência do usuário, (UX), trabalhando com o Figma para criar protótipos e garantir uma boa usabilidade no aplicativo. Além disso, aprendi a colaborar efetivamente em uma equipe de desenvolvimento, participando de reuniões, compartilhando ideias e contribuindo para a evolução do projeto. Por fim, destaco a importância da documentação técnica, que me proporcionou uma melhor compreensão do projeto e facilitou a comunicação com outros membros da equipe.
+<p align="justify">
+Durante esse projeto, adquiri habilidades cruciais de comunicação e gestão de expectativas entre stakeholders e equipe de desenvolvimento. Aprendi a equilibrar as demandas do cliente com as capacidades e restrições técnicas, compreendendo como construir um produto que atenda não apenas às expectativas do usuário, mas também aos objetivos de negócio da empresa. Desenvolvi uma visão mais ampla sobre a interseção entre tecnologia, negócios e experiência do usuário, enriquecendo minha capacidade de liderança e minha habilidade de priorização e tomada de decisão.
+</p>
+
+- **Scrum e Gestão Ágil:**
+  Como Product Owner, apliquei os princípios ágeis do Scrum para promover a colaboração eficaz e garantir entregas contínuas de valor. Facilitei reuniões diárias, planejamentos de sprint e sessões de revisão e retrospectiva. Isso criou um ambiente propício à adaptação rápida, fomentando a transparência e a entrega incremental de funcionalidades.
+
+- **Adaptação e Resiliência:**
+  Durante o projeto, aprendi a ser ágil na resposta a mudanças, a lidar com imprevistos e a ajustar estratégias conforme necessário. Essa experiência desenvolveu minha capacidade de adaptação e resiliência diante de desafios, contribuindo para a entrega bem-sucedida do projeto.
+
+- **Soft Skills Desenvolvidas:**
+  Além das habilidades técnicas, a experiência fortaleceu minha liderança, empatia e habilidades de negociação. Aprendi a ouvir atentamente as necessidades das partes interessadas e a promover um ambiente colaborativo. Essas habilidades foram cruciais para alinhar o time aos objetivos do projeto.
+
+- **Comunicação Efetiva:**
+  Desenvolvi habilidades de comunicação claras e eficazes entre stakeholders, facilitando a compreensão das expectativas do cliente e a transmissão dessas expectativas ao time de desenvolvimento. Essa habilidade foi vital para garantir um alinhamento constante entre as partes envolvidas no projeto.
+
 
