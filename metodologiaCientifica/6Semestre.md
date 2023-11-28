@@ -1,10 +1,10 @@
-# Projeto 5 - 5º semestre de 2022
+# Projeto 6 - 6º semestre
 ## Empresa parceira: MidAll 
 
 <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/Logo_Visiona.png" height="150"/>
 
 
-###*Figura 11. MidAll (Fonte: https://www.midall.com.br/)*
+###*Figura 11. Visiona (Fonte: https://visionaespacial.com/)*
 
 ### Visão do Projeto ![Visão do Projeto](https://img.shields.io/badge/-Visão%20Do%20Projeto-blue)
 
