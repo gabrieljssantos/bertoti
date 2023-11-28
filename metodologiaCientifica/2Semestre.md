@@ -1,75 +1,56 @@
-<html>
-  <body>
-     <table align="center">
-     <tr>
-      <p align="center"><img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" width=35%></img></p>
-     </tr>
-    </table>
-  <ol>
-    <h3><li><b>Descrição do Projeto</b></li></h3>
-    <p align="justify">
-    O projeto consiste em apresentar para o cliente Necto Systems uma solução para o monitoramento de um ou mais SGBDs remotos, bem como na coleta de métricas de funcionamento dos Banco de Dados presentes nos servidores da empresa. O objetivo foi desenvolver um software integrado que monitore e apresente métricas referentes ao uso e à saúde do SGBD em tempo real, além de oferecer um pós-gerenciamento de múltiplos BDs no servidor como diferencial.
-    </p>
-      <ol>
-        <h4><li><b>Objetivo Geral</b></li></h4>
-        <p align="justify">
-        O objetivo geral deste projeto foi desenvolver um software integrado que monitora e apresenta métricas referentes ao uso e à saúde de SGBDs em tempo real, oferecendo um pós-gerenciamento de múltiplos BDs no servidor.
-        </p>
-        <h4><li><b>Objetivos Específicos</b></li></h4>
-        <p align="justify">
-        Como objetivos específicos, temos:
-          <ul>
-              <li>Realizar registros periódicos de métricas (diariamente/hora);</li>
-              <li>Disponibilizar dados coletados em tempo real;</li>
-              <li>Manter um histórico de métricas;</li>
-              <li>Criar relatórios com as métricas e valores limites atingidos durante a operação;</li>
-              <li>Permitir o cadastro de dados de conexão dos SGBDs para acesso a estatísticas por tabela.</li>
-          </ul>
-        </p> 
-        </ol>    
-        <p align="justify">
-          O projeto foi desenvolvido atendendo aos requisitos funcionais e não funcionais estabelecidos, utilizando as tecnologias descritas a seguir.
-        </p>
-  </ol>
-  <ol start="2"> 
-    <h3><li><b>Tecnologias Utilizadas</b></li></h3>
-<p align="justify">As principais tecnologias utilizadas no projeto foram:</p>
-<ul>
-  <li>PostgreSQL</li>
-    <p align="justify">PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. É utilizado para armazenar os dados coletados e oferecer suporte ao monitoramento dos SGBDs.</p>
-  <li>Java</li>
-    <p align="justify">Java é uma linguagem de programação amplamente utilizada para desenvolvimento de aplicações. Foi escolhida como linguagem principal para implementação do software de monitoramento.</p>
-  <li>Eclipse</li>
-    <p align="justify">Eclipse é uma IDE (Integrated Development Environment) utilizada para desenvolvimento de software em diversas linguagens,
-<li>JDBC</li>
-    <p align="justify">JDBC (Java Database Connectivity) é uma API do Java que fornece uma interface para conectar e interagir com bancos de dados relacionais. É utilizado para estabelecer a conexão com o banco de dados PostgreSQL.</p>
-  <li>SQLite</li>
-    <p align="justify">SQLite é um sistema de gerenciamento de banco de dados relacional embutido. Foi utilizado neste projeto para armazenar e gerenciar o histórico de métricas coletadas.</p>
-</ul>
-  </ol>
-  <ol start="3">
-    <h3><li><b>Funcionalidades</b></li></h3>
-      <p align="justify">
-        O sistema desenvolvido possui as seguintes funcionalidades:
-        <ul>
-          <li>Registros periódicos de métricas, realizados diariamente ou a cada hora;</li>
-          <li>Disponibilidade de dados coletados em tempo real;</li>
-          <li>Histórico de métricas armazenado no banco de dados SQLite;</li>
-          <li>Geração de relatórios contendo as métricas e valores limites atingidos durante a operação;</li>
-          <li>Cadastro de dados de conexão dos SGBDs para acesso a estatísticas por tabela.</li>
-        </ul>
-      </p>
-  </ol>
-  <ol start="4">
-    <h3><li><b>Lições Aprendidas</b></li></h3>
-      <p align="justify">
-        <b>Habilidades Técnicas (Hard Skills)</b><br>
-        Durante o desenvolvimento deste projeto, foram adquiridas as seguintes habilidades técnicas:
-        <ul>
-          <li>Desenvolvimento de aplicativos utilizando Java;</li>
-          <li>Conexão e manipulação de bancos de dados relacionais com o uso do JDBC;</li>
-            '''
-               <pre>
+# Projeto 2 - 2º semestre
+## Empresa parceira: NectoSystem 
+
+<img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" height="150"/>
+
+
+###*Figura 11. NectoSystem (Fonte: https://necto.com.br/)*
+
+### Visão do Projeto ![Visão do Projeto](https://img.shields.io/badge/-Visão%20Do%20Projeto-blue)
+
+ O projeto consiste em apresentar para o cliente Necto Systems uma solução para o monitoramento de um ou mais SGBDs remotos, bem como na coleta de métricas de funcionamento dos Banco de Dados presentes nos servidores da empresa. O objetivo foi desenvolver um software integrado que monitore e apresente métricas referentes ao uso e à saúde do SGBD em tempo real, além de oferecer um pós-gerenciamento de múltiplos BDs no servidor como diferencial.
+
+- **Objetivo Geral**:
+foi desenvolver um software integrado que monitora e apresenta métricas referentes ao uso e à saúde de SGBDs em tempo real, oferecendo um pós-gerenciamento de múltiplos BDs no servidor.
+
+- **Objetivos Específicos**: Como objetivos específicos, temos:
+    - Realizar registros periódicos de métricas (diariamente/hora);
+    - Disponibilizar dados coletados em tempo real;
+    - Manter um histórico de métricas;
+    - Criar relatórios com as métricas e valores limites atingidos durante a operação;
+    - Permitir o cadastro de dados de conexão dos SGBDs para acesso a estatísticas por tabela.
+
+
+## Tecnologias utilizadas ![Tecnologias utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-blue)
+
+
+- **PostgreSQL** é um sistema de gerenciamento de banco de dados relacional de código aberto. É utilizado para armazenar os dados coletados e oferecer suporte ao monitoramento dos SGBDs.
+
+- **Java** é uma linguagem de programação amplamente utilizada para desenvolvimento de aplicações. Foi escolhida como linguagem principal para implementação do software de monitoramento.
+
+- **Eclipse** é uma IDE (Integrated Development Environment) utilizada para desenvolvimento de software em diversas linguagens.
+
+- **JDBC** (Java Database Connectivity) é uma API do Java que fornece uma interface para conectar e interagir com bancos de dados relacionais. É utilizado para estabelecer a conexão com o banco de dados PostgreSQL.
+
+- **SQLite** é um sistema de gerenciamento de banco de dados relacional embutido. Foi utilizado neste projeto para armazenar e gerenciar o histórico de métricas coletadas.
+
+- **Microsoft SQL Server** é um SGBD relacional desenvolvido pela Microsoft, utilizado para armazenar e manipular dados de maneira eficiente e segura.
+
+
+
+## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
+
+**Registros Periódicos de Métricas:** Lógica para a coleta e registro automático de métricas em intervalos regulares, permitindo uma análises.
+
+**Histórico de Métricas no Banco de Dados SQLite:** Desenvolvimento da estrutura de armazenamento e consulta das métricas no banco de dados SQLite, permitindo a visualização do histórico de dados coletados ao longo do tempo.
+
+
+**Cadastro de Dados de Conexão aos SGBDs:** Implementei um sistema de registro e gerenciamento dos dados de conexão aos SGBDs, facilitando o acesso e a análise estatística por tabela dos diferentes bancos de dados utilizados no projeto.
+
+ 
+<details><summary>Exemplo de código</summary>
+
+```java
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
@@ -123,29 +104,27 @@ public class JDBCExample {
             }
         }
     }
-}
-            </pre>
-            ```
-          <li>Utilização do Eclipse como ambiente de desenvolvimento integrado;</li>
-          <li>Armazenamento e consulta de dados utilizando o PostgreSQL;</li>
-          <li>Gerenciamento do histórico de métricas com o SQLite.</li>
-        </ul>
-        <br>
-        <b>Habilidades Interpessoais (Soft Skills)</b><br>
-        Além disso, também foram desenvolvidas as seguintes habilidades interpessoais:
-        <ul>
-          <li>Trabalho em equipe efetivo, com colaboração entre os membros do projeto;</li>
-          <li>Comunicação clara e eficaz para garantir o entendimento e a implementação correta dos requisitos do projeto;</li>
-          <li>Gestão do tempo e priorização de tarefas para cumprir os prazos estabelecidos;</li>
-          <li>Resolução de problemas e tomada de decisões, enfrentando desafios técnicos e definindo a melhor abordagem para a implementação das funcionalidades desejadas;</li>
-          <li>Flexibilidade e adaptabilidade, lidando com a aprendizagem de novas tecnologias e a capacidade de se adaptar a mudanças nos requisitos do projeto.</li>
-        </ul>
-      </p>
-  </ol>
-  <ol start="5">
-  <h3><li><b>Considerações Finais</b></li></h3>
-  <p align="justify">
-  Durante o desenvolvimento do projeto Necto Systems, a oportunidade de enfrentar desafios técnicos e aprimorar suas habilidades tanto em termos de conhecimentos técnicos quanto de trabalho em equipe. O desenvolvimento de um software integrado para monitoramento de SGBDs remotos e coleta de métricas em tempo real exigiu a aplicação de conceitos de programação Java, gerenciamento de bancos de dados relacionais e uso de ferramentas como o Eclipse e JDBC. 
-    </ol>
-    </body>
-    </html>
+```
+</details>
+
+
+
+## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efeitvos-blue)
+
+Desenvolvi habilidades técnicas, como:
+
+- Desenvolvimento de aplicativos utilizando Java.
+- Conexão e manipulação de bancos de dados relacionais com o uso do JDBC.
+- Utilização do Eclipse como ambiente de desenvolvimento integrado.
+- Armazenamento e consulta de dados utilizando o PostgreSQL.
+- Gerenciamento do histórico de métricas com o SQLite.
+
+Também aprimorei habilidades interpessoais, tais como:
+
+- Trabalho em equipe eficaz, colaborando com sucesso entre os membros do projeto.
+- Comunicação clara e eficaz para garantir o entendimento e a implementação correta dos requisitos do projeto.
+- Gestão do tempo e priorização de tarefas para cumprir os prazos estabelecidos.
+- Resolução de problemas e tomada de decisões, enfrentando desafios técnicos e definindo a melhor abordagem para a implementação das funcionalidades desejadas.
+- Flexibilidade e adaptabilidade, lidando com a aprendizagem de novas tecnologias e a capacidade de se adaptar a mudanças nos requisitos do projeto.
+
+
