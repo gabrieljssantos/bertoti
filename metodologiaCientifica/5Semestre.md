@@ -1,4 +1,4 @@
-# Projeto 5 - 5º semestre de 2022
+# Projeto 5 - 5º semestre
 ## Empresa parceira: MidAll 
 
 <img src="https://user-images.githubusercontent.com/80851038/163725778-498ec2e9-e8eb-45cf-a586-848e5bb1dd97.png" height="150"/>
