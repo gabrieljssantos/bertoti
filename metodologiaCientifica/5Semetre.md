@@ -55,14 +55,4 @@ Essa introdução ao Azure e às suas capacidades de integração trouxe perspec
 - **Configuração avançada no Grafana:** Explorei a criação de dashboards altamente personalizados para monitorar a saúde da aplicação, utilizando variáveis, alertas e fontes de dados variadas. Isso incluiu a criação de painéis dinâmicos para acompanhar métricas em tempo real.
 - **Integração do LookerStudio com fontes de dados em Nuvem (Azure):** Aprendi a integrar e visualizar dados complexos da aplicação dentro do LookerStudio, facilitando a análise de métricas cruciais para o projeto. Isso envolveu a criação de visualizações interativas para melhorar a compreensão dos dados.
 
-- [x] Microsoft SQL Server
-- [x] Python
-- [x] Vue.js
-- [x] HTML
-- [x] JavaScript
-- [x] Docker
-- [x] Figma
-- [x] Azure
-- [x] Grafana
-
 
