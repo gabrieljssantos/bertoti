@@ -1,58 +1,114 @@
-# Projeto 5 - 5º semestre
-## Empresa parceira: MidAll 
+# Projeto 1: 1º Semestre
 
-<img src="https://user-images.githubusercontent.com/80851038/163725778-498ec2e9-e8eb-45cf-a586-848e5bb1dd97.png" height="150"/>
+### Parceiro Acadêmico
 
+Fatec Prof. Jessen Vidal (proposta realizada pelo docente responsável pela disciplina que ordenou o projeto) <br/>
 
-###*Figura 11. MidAll (Fonte: https://www.midall.com.br/)*
+<img src="https://user-images.githubusercontent.com/80851038/118410251-e2069880-b664-11eb-9eb6-b9bdfc8526eb.png" width=75%></img>
+
+### *Fatec São José dos Campos*
 
 ### Visão do Projeto ![Visão do Projeto](https://img.shields.io/badge/-Visão%20Do%20Projeto-blue)
 
 <p align="justify">
-O projeto tem como objetivo automatizar o processo de download de arquivos armazenados na nuvem e transferi-los para outra nuvem. Para isso, é desenvolvida uma aplicação como serviço que oferece um menu de configuração simples para os usuários. Os parâmetros inseridos nesse menu são utilizados para automatizar o download dos arquivos, com a aplicação gerando alertas em caso de falhas no processamento. A aplicação é executada em um servidor local e conta com telas dedicadas à configuração do sistema e à definição dos dados de acesso à API. O sistema emite alertas no sistema operacional para informar sobre novos arquivos baixados e mantém um histórico desses downloads.
+O projeto consiste no desenvolvimento de um aplicativo chamado Helena, uma assistente virtual de viagens. A principal finalidade do aplicativo é fornecer uma experiência otimizada e agradável aos usuários durante suas viagens, oferecendo diversas funcionalidades úteis. 
 
-Adicionalmente, foi construída uma API que funciona como o serviço responsável por buscar os arquivos de forma automática, seguindo as configurações previamente definidas pelo usuário. Os metadados dos arquivos são salvos para a criação de um dashboard que permite monitorar a execução do serviço, analisar resultados e visualizar indicadores de desempenho.
-</p>
+Helena, projeto desenvolvido, é capaz de responder a comandos de voz ou sons específicos, como palmas ou estalar de dedos. Ela possui no mínimo oito ações distintas e de natureza diversa, como mostrar pontos turísticos de uma cidade, abrir o mapa na localização do usuário, exibir um mapa de hotéis disponíveis com preços, permitir a criação de um roteiro pessoal, mostrar o clima e a temperatura atual, fornecer informações detalhadas sobre uma cidade, converter moedas, converter medidas de roupas entre países e traduzir textos para diferentes idiomas. 
 
 
 ## Tecnologias utilizadas ![Tecnologias utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-blue)
 
-- **Microsoft SQL Server** é um SGBD relacional desenvolvido pela Microsoft, utilizado para armazenar, manipular dados de maneira eficiente e segura 
-- **Python** é uma linguagem de programação de alto nível, amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).
-- **Vue.js** é um framework JavaScript, flexível e reativo que ajuda os desenvolvedores a construir interfaces de usuário escaláveis e reutilizáveis, tornando o desenvolvimento de aplicativos mais eficiente e intuitivo.
-- **HTML** é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web.  
-- **JavaScript** é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma
-- **Docker** é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. 
-- **Figma**  é uma plataforma colaborativa para construção de design de interfaces e protótipos
-- **Grafana** é uma plataforma de análise e monitoramento de dados de código aberto, que permite criar e gerenciar painéis operacionais para seus dados de várias fontes, como Prometheus, Logs, Traces, Metrics e muito mais. 
+- **React Native** é um framework de desenvolvimento de aplicativos móveis multiplataforma. Ele permite criar aplicativos nativos para iOS e Android utilizando JavaScript, usando a biblioteca React para construir a interface do usuário. Isso possibilita o reuso de componentes e a criação de aplicativos com aparência e desempenho nativos. O React Native é amplamente utilizado no desenvolvimento de aplicativos móveis modernos e oferece uma experiência de desenvolvimento eficiente e rápida.
+
+- **Expo** é uma plataforma de código aberto para o desenvolvimento de aplicativos móveis com React Native. Fornece um conjunto de ferramentas e serviços que simplificam o processo de desenvolvimento, permitindo criar aplicativos sem a necessidade de configurar e gerenciar um ambiente de desenvolvimento nativo. O Expo oferece recursos como hot reloading, acesso a APIs nativas do dispositivo, compartilhamento fácil do aplicativo em desenvolvimento e muito mais.
+
+- **JavaScript** é uma linguagem de programação amplamente utilizada em desenvolvimento web, análise de dados, inteligência artificial, automação de tarefas e outras áreas. Com sua sintaxe simples e intuitiva, é uma linguagem popular entre os desenvolvedores. No contexto do projeto Helena, o JavaScript é utilizado para o desenvolvimento de aplicativos móveis com React Native, aproveitando as bibliotecas e frameworks disponíveis nesse ecossistema.
+
+- **Node.js** é um ambiente de execução de JavaScript que permite rodar o código JavaScript no servidor. É amplamente utilizado no de ambientes de desenvolvimento e facilita a instalação de ferramentas e dependências necessárias para o desenvolvimento do projeto Helena.
+
+- **Java** é uma linguagem de programação popular e amplamente utilizada, especialmente no desenvolvimento de aplicativos Android. Com o uso do Java, é possível criar aplicativos móveis nativos e aproveitar recursos específicos da plataforma Android. No projeto Helena, o Java é utilizado em conjunto com o Android Studio para o desenvolvimento da versão Android do aplicativo.
+
+- **Android Studio** é o ambiente de desenvolvimento oficial para a plataforma Android e fornece ferramentas poderosas para o desenvolvimento de aplicativos Android, incluindo um editor de código avançado, depurador, emulador de dispositivo e muito mais. É utilizado no projeto Helena para a criação e teste da versão Android do aplicativo.
+
+- **Visual Studio Code** é um editor de código fonte leve e altamente configurável, desenvolvido pela Microsoft. Oferece uma ampla gama de recursos e extensões que facilitam o desenvolvimento de aplicativos em diferentes linguagens de programação. No projeto Helena, o Visual Studio Code é utilizado como ambiente de desenvolvimento para escrever e editar o código fonte do projeto.
+
+- **Figma** é uma ferramenta de design de interface do usuário baseada em nuvem. Com o Figma, é possível criar, colaborar e prototipar designs de aplicativos e interfaces de usuário de forma eficiente. No projeto Helena, o Figma é utilizado para criar e visualizar os designs das telas do aplicativo, permitindo uma melhor compreensão e comunicação entre os membros da equipe de desenvolvimento.
+
 
 ## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
 
 <p align="justify">
-Durante o projeto, minha contribuição foi focada na área de dados, onde foi utilizado Grafana para monitorar a saúde da aplicacação. Também foi desenvolvido um dashboard para acompanhamento de métricas da aplicação, dentro do LookerStudio.
+Durante o projeto, minha contribuição foi focada principalmente no desenvolvimento da funcionalidade de Pontos Turísticos, onde implementei a lógica para exibir os principais pontos turísticos de uma cidade, utilizando dados fornecidos por uma API. 
 
+Além disso, também trabalhei na integração do aplicativo com a API de clima para exibir a temperatura e condições climáticas atuais. Participei ativamente das discussões de design e usabilidade, fornecendo sugestões e feedbacks para melhorar a experiência do usuário. 
+
+Também colaborei na escrita da documentação técnica e na realização de testes e correções de bugs.
 </p>
 
-![Leia Mais](https://img.shields.io/badge/-Grafana%20Dashboard-orange) 
-  <details>
-    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/41559113-450e-4169-a480-719eca38e263.png" width="90%" height="90%"/>
+![Leia Mais](https://img.shields.io/badge/-Veja%20Mais-orange) <details><summary>Exemplo de código: Pontos Turísticos</summary>
 
-  </details>
+```javascript
+    // Função para obter os pontos turísticos de uma cidade
+    function getPontosTuristicos(cidade) {
+    // Chamada à API para obter os pontos turísticos
+    fetch(`https://api.exemplo.com/pontos-turisticos?cidade=${cidade}`)
+        .then(response => response.json())
+        .then(data => {
+        // Exibir os pontos turísticos na interface do usuário
+        data.pontos.forEach(ponto => {
+            console.log(ponto.nome);
+            console.log(ponto.descricao);
+            console.log(ponto.imagem);
 
-  ![Leia Mais](https://img.shields.io/badge/-LookerStudio%20Dashboard-orange) 
-  <details>
-    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/1e8887f5-399d-49de-a2f8-cd198fafb3d2" width="90%" height="90%"/>
-    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/3a917abc-74a6-493e-9d9e-f5c83b04b0ff" width="90%" height="90%"/>
-  </details>
+        });
+        })
+        .catch(error => {
+        console.error('Erro ao obter pontos turísticos:', error);
+        });
+    }
+```
+</details>
 
+<details><summary>Exemplo de código: Temperatura Atual</summary>
+
+```javascript
+    import React from 'react';
+import { View, Text, StyleSheet } from 'react-native';
+import Proptypes from 'prop-types';
+import { weatherConditions } from '../../components/Util/WeatherCondition';
+
+
+const Weahter = ({ weather, temperature }) => {
+    console.log(temperature)
+    return (
+        <View style={[styles.weatherContainer, { backgroundColor: weatherConditions[weather].color }]}>
+            <View style={styles.headerContainer}>
+                <Text style={styles.tempText}>{temperature}°</Text>
+            </View>
+            <View style={styles.bodyContainer}>
+                <Text style={styles.title}>{weatherConditions[weather].title}</Text>
+                <Text style={styles.subtitle}>{weatherConditions[weather].subtitle}</Text>
+            </View>
+        </View>
+    )
+};
+
+Weahter.Proptypes = {
+    temperature: Proptypes.number.isRequired,
+    weather: Proptypes.string
+}
+
+export default Weahter;
+```
+</details>
 
 ## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efeitvos-blue)
 
-- **Tratamento de dados com Python:** Realizei a etapa de tratamento de dados utilizando Python, aplicando transformações e manipulações nos dados para prepará-los para análise e visualização. Isso incluiu a limpeza de dados inconsistentes e a padronização de formatos.
-- **Consultas SQL:** Aprofundei-me em consultas SQL para extrair informações específicas do Microsoft SQL Server, otimizando consultas para obter dados relevantes para o projeto. Isso envolveu o uso de junções complexas e subconsultas para análises detalhadas.
-- **Azure e Integrações:** Explorei mais afundo os serviços oferecidos pela plataforma Azure da Microsoft e suas possibilidades de integração com as ferramentas existentes no projeto. Isso incluiu a compreensão de como os serviços em nuvem podem ser usados para armazenamento, processamento e integração de dados.
-Essa introdução ao Azure e às suas capacidades de integração trouxe perspectivas valiosas sobre as possibilidades de expansão e escalabilidade para projetos futuros.
-- **Configuração avançada no Grafana:** Explorei a criação de dashboards altamente personalizados para monitorar a saúde da aplicação, utilizando variáveis, alertas e fontes de dados variadas. Isso incluiu a criação de painéis dinâmicos para acompanhar métricas em tempo real.
-- **Integração do LookerStudio com fontes de dados em Nuvem (Azure):** Aprendi a integrar e visualizar dados complexos da aplicação dentro do LookerStudio, facilitando a análise de métricas cruciais para o projeto. Isso envolveu a criação de visualizações interativas para melhorar a compreensão dos dados.
+Durante o desenvolvimento do projeto Helena, adquiri conhecimentos significativos em diversas áreas. Aprendi a utilizar o framework React Native para desenvolvimento de aplicativos móveis, o que me permitiu criar interfaces intuitivas e responsivas para o aplicativo. 
 
+Aprofundei meus conhecimentos em JavaScript, especialmente em relação ao uso de Promises e a integração com APIs externas. 
+
+Também desenvolvi habilidades em design de interface do usuário (UI) e experiência do usuário (UX), trabalhando com o Figma para criar protótipos e garantir uma boa usabilidade no aplicativo.
+
+Além disso, aprendi a colaborar efetivamente em uma equipe de desenvolvimento, participando de reuniões, compartilhando ideias e contribuindo para a evolução do projeto. 
 
