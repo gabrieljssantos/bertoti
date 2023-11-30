@@ -112,7 +112,7 @@ Esse esforço resultou em um processo que anteriormente levava mais de 48 horas 
 
 Essa contribuição foi crucial para a integridade e acessibilidade dos dados, permitindo que a equipe utilizasse informações precisas e prontamente disponíveis para análises e tomada de decisões.</p>
 
-  <details>
+  <details> <summary>DataFactory - Pipeline dos dados</summary>
     <img alt="01" src="https://github.com/gabrieljssantos/bertoti/assets/48994698/2d2c128f-6ae5-412c-aa00-ca48ac5441c7" width="70%" height="70%">
     <img alt="02" src="https://github.com/gabrieljssantos/bertoti/assets/48994698/3d1eff59-382f-4241-82b3-8cb76a1c963e" width="70%" height="70%">
     <img alt="03" src="https://github.com/gabrieljssantos/bertoti/assets/48994698/2c6252eb-8d32-48a2-889e-a18750fce819" width="70%" height="70%">
