@@ -17,37 +17,30 @@ O projeto consiste no desenvolvimento de um aplicativo chamado Helena, uma assis
 
 ## Tecnologias utilizadas ![Tecnologias utilizadas](https://img.shields.io/badge/-Tecnologias%20Utilizadas-blue)
 
-### React Native
+- **React Native**
+  React Native é um framework de desenvolvimento de aplicativos móveis multiplataforma, que permite criar aplicativos nativos para iOS e Android utilizando JavaScript. Ele utiliza a biblioteca React para construir a interface do usuário, permitindo o reuso de componentes e a criação de aplicativos com aparência e desempenho nativos. O React Native é amplamente utilizado no desenvolvimento de aplicativos móveis modernos e oferece uma experiência de desenvolvimento eficiente e rápida.
 
-React Native é um framework de desenvolvimento de aplicativos móveis multiplataforma, que permite criar aplicativos nativos para iOS e Android utilizando JavaScript. Ele utiliza a biblioteca React para construir a interface do usuário, permitindo o reuso de componentes e a criação de aplicativos com aparência e desempenho nativos. O React Native é amplamente utilizado no desenvolvimento de aplicativos móveis modernos e oferece uma experiência de desenvolvimento eficiente e rápida.
+- **Expo**
+  Expo é uma plataforma de código aberto para o desenvolvimento de aplicativos móveis com React Native e fornece um conjunto de ferramentas e serviços que simplificam o processo de desenvolvimento, permitindo criar aplicativos sem a necessidade de configurar e gerenciar um ambiente de desenvolvimento nativo. O Expo oferece recursos como hot reloading, acesso a APIs nativas do dispositivo, compartilhamento fácil do aplicativo em desenvolvimento e muito mais.
 
-### Expo
+- **JavaScript**
+  JavaScript é uma linguagem de programação amplamente utilizada em desenvolvimento web, análise de dados, inteligência artificial, automação de tarefas e outras áreas. Com sua sintaxe simples e intuitiva, é uma linguagem popular entre os desenvolvedores. No contexto do projeto Helena, o JavaScript é utilizado para o desenvolvimento de aplicativos móveis com React Native, aproveitando as bibliotecas e frameworks disponíveis nesse ecossistema.
 
-Expo é uma plataforma de código aberto para o desenvolvimento de aplicativos móveis com React Native e fornece um conjunto de ferramentas e serviços que simplificam o processo de desenvolvimento, permitindo criar aplicativos sem a necessidade de configurar e gerenciar um ambiente de desenvolvimento nativo. O Expo oferece recursos como hot reloading, acesso a APIs nativas do dispositivo, compartilhamento fácil do aplicativo em desenvolvimento e muito mais.
+- **Node.js**
+  Node.js é um ambiente de execução de JavaScript que permite rodar o código JavaScript no servidor. É amplamente utilizado no de ambientes de desenvolvimento e facilita a instalação de ferramentas e dependências necessárias para o desenvolvimento do projeto Helena.
 
-### JavaScript
+- **Java**
+  Java é uma linguagem de programação popular e amplamente utilizada, especialmente no desenvolvimento de aplicativos Android. Com o uso do Java, é possível criar aplicativos móveis nativos e aproveitar recursos específicos da plataforma Android. No projeto Helena, o Java é utilizado em conjunto com o Android Studio para o desenvolvimento da versão Android do aplicativo.
 
-JavaScript é uma linguagem de programação amplamente utilizada em desenvolvimento web, análise de dados, inteligência artificial, automação de tarefas e outras áreas. Com sua sintaxe simples e intuitiva, é uma linguagem popular entre os desenvolvedores. No contexto do projeto Helena, o JavaScript é utilizado para o desenvolvimento de aplicativos móveis com React Native, aproveitando as bibliotecas e frameworks disponíveis nesse ecossistema.
+- **Android Studio**
+  O Android Studio é o ambiente de desenvolvimento oficial para a plataforma Android e fornece ferramentas poderosas para o desenvolvimento de aplicativos Android, incluindo um editor de código avançado, depurador, emulador de dispositivo e muito mais. O Android Studio é utilizado no projeto Helena para a criação e teste da versão Android do aplicativo.
 
-### Node.js
+- **Visual Studio Code**
+  O Visual Studio Code é um editor de código fonte leve e altamente configurável, desenvolvido pela Microsoft e oferece uma ampla gama de recursos e extensões que facilitam o desenvolvimento de aplicativos em diferentes linguagens de programação. No projeto Helena, o Visual Studio Code é utilizado como ambiente de desenvolvimento para escrever e editar o código fonte do projeto.
 
-Node.js é um ambiente de execução de JavaScript que permite rodar o código JavaScript no servidor. É amplamente utilizado no de ambientes de desenvolvimento e facilita a instalação de ferramentas e dependências necessárias para o desenvolvimento do projeto Helena.
+- **Figma**
+  O Figma é uma ferramenta de design de interface do usuário baseada em nuvem. Com o Figma, é possível criar, colaborar e prototipar designs de aplicativos e interfaces de usuário de forma eficiente. No projeto Helena, o Figma é utilizado para criar e visualizar os designs das telas do aplicativo, permitindo uma melhor compreensão e comunicação entre os membros da equipe de desenvolvimento.
 
-### Java
-
-Java é uma linguagem de programação popular e amplamente utilizada, especialmente no desenvolvimento de aplicativos Android. Com o uso do Java, é possível criar aplicativos móveis nativos e aproveitar recursos específicos da plataforma Android. No projeto Helena, o Java é utilizado em conjunto com o Android Studio para o desenvolvimento da versão Android do aplicativo.
-
-### Android Studio
-
-O Android Studio é o ambiente de desenvolvimento oficial para a plataforma Android e fornece ferramentas poderosas para o desenvolvimento de aplicativos Android, incluindo um editor de código avançado, depurador, emulador de dispositivo e muito mais. O Android Studio é utilizado no projeto Helena para a criação e teste da versão Android do aplicativo.
-
-### Visual Studio Code
-
-O Visual Studio Code é um editor de código fonte leve e altamente configurável, desenvolvido pela Microsoft e oferece uma ampla gama de recursos e extensões que facilitam o desenvolvimento de aplicativos em diferentes linguagens de programação. No projeto Helena, o Visual Studio Code é utilizado como ambiente de desenvolvimento para escrever e editar o código fonte do projeto.
-
-### Figma
-
-O Figma é uma ferramenta de design de interface do usuário baseada em nuvem. Com o Figma, é possível criar, colaborar e prototipar designs de aplicativos e interfaces de usuário de forma eficiente. No projeto Helena, o Figma é utilizado para criar e visualizar os designs das telas do aplicativo, permitindo uma melhor compreensão e comunicação entre os membros da equipe de desenvolvimento.
 
 ## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
 
