@@ -27,22 +27,29 @@ Adicionalmente, foi construída uma API que funciona como o serviço responsáve
 - **JavaScript** é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma
 - **Docker** é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. 
 - **Figma**  é uma plataforma colaborativa para construção de design de interfaces e protótipos
-- **Grafana** é uma plataforma de análise e monitoramento de dados de código aberto, que permite criar e gerenciar painéis operacionais para seus dados de várias fontes, como Prometheus, Logs, Traces, Metrics e muito mais. 
+- **Grafana** é uma plataforma de análise e monitoramento de dados de código aberto, que permite criar e gerenciar painéis operacionais para seus dados de várias fontes, como Prometheus, Logs, Traces, Metrics e muito mais.
+- **Azure** é uma plataforma de serviços na nuvem que oferece recursos de computação, armazenamento e serviços relacionados para construir, implantar e gerenciar aplicativos e serviços pela internet.
+- **LookerStudio** é uma ferramenta avançada de criação de dashboards e análise de dados. Permite a configuração de dashboards personalizados, oferecendo uma ampla gama de opções para visualização e análise de dados em tempo real. Esta ferramenta proporciona uma experiência altamente interativa para explorar informações e métricas de maneira detalhada e intuitiva. 
 
 ## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
 
-<p align="justify">
-Durante o projeto, minha contribuição foi focada na área de dados, onde foi utilizado Grafana para monitorar a saúde da aplicacação. Também foi desenvolvido um dashboard para acompanhamento de métricas da aplicação, dentro do LookerStudio. </p>
 
-![Leia Mais](https://img.shields.io/badge/-Grafana%20Dashboard-orange) 
+- Durante o projeto, concentrei meus esforços na área de dos, no controle e na criação dos dashboards, bem como no tratamento dos dados em geral. Minha responsabilidade incluiu também limpeza e formatação dos dados para que pudessem ser exibidos 
+
+
+
   <details> <summary> Mostrar mais </summary>
+    <br>
+  1- Implementei o Grafana para monitoramento contínuo da aplicação. Configurei dashboards personalizados para acompanhar a performance e funcionalidade do sistema em tempo real. Essa ferramenta permitiu identificar rapidamente anomalias, agilizando as ações corretivas.
     <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/41559113-450e-4169-a480-719eca38e263.png" width="90%" height="90%"/>
   </details>
   
-   ![Leia Mais](https://img.shields.io/badge/-LookerStudio%20Dashboard-orange) 
   <details> <summary> Mostrar mais </summary>
-    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/1e8887f5-399d-49de-a2f8-cd198fafb3d2" width="90%" height="90%"/>
-    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/3a917abc-74a6-493e-9d9e-f5c83b04b0ff" width="90%" height="90%"/>
+    <br>
+   2- Desenvolvimento de um dashboard no LookerStudio, expondo métricas e dados essenciais, atuando desde a extração das métricas, transformação dos dados e visualização dos mesmos. Além disso, o LookerStudio consome os dados diretamente da aplicação em nuvem da Azure, em tempo real, possibilitando uma análise precisa e atualizada.
+    
+    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/1e8887f5-399d-49de-a2f8-cd198fafb3d2" width="80%" height="80%"/>
+    <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/3a917abc-74a6-493e-9d9e-f5c83b04b0ff" width="80%" height="80%"/>
   </details>
 
 
