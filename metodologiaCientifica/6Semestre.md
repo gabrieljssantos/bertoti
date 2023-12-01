@@ -120,6 +120,88 @@ Essa contribuição foi crucial para a integridade e acessibilidade dos dados, p
     <img alt="05" src="https://github.com/gabrieljssantos/bertoti/assets/48994698/020ea32f-00f6-4292-9c62-95f2d0eae1d2" width="40%" height="35%">
   </details>
 
+Trabalhei na criação da série temporal utilizando ARIMA para analisar a qualidade do solo em uma gleba específica. Utilizei o NDVI como métrica fundamental, variando de -1 a 1, para avaliar a qualidade do solo, onde valores mais altos indicam melhores condições. 
+
+ <details>
+
+<summary>Script para Serie Temporal</summary>
+ 
+ ```py
+
+ 
+import json
+import pandas as pd
+import matplotlib.pyplot as plt
+from statsmodels.tsa.arima.model import ARIMA
+from sklearn.metrics import mean_squared_error, mean_absolute_error
+import numpy as np
+
+with open('/content/resultado7.txt', 'r') as file:
+    data = json.load(file)
+
+dates = pd.to_datetime(data["Dado Bruto"]["Modis"]["Data"])
+ndvi_values = data["Dado Bruto"]["Modis"]["NDVI"]
+
+df = pd.DataFrame({'Data': dates, 'NDVI': ndvi_values})
+
+df = df.sort_values(by='Data')
+
+# Dividir os dados em conjuntos de treinamento e teste
+split_index = int(0.75 * len(df))
+train_data = df.iloc[:split_index]
+test_data = df.iloc[split_index:]
+
+# Ajustar o modelo ARIMA com os dados de treinamento
+model = ARIMA(train_data['NDVI'], order=(10, 2, 2))  # Ordem (p, d, q)
+model_fit = model.fit()
+
+forecast = model_fit.forecast(steps=len(test_data))
+
+mae = mean_absolute_error(test_data['NDVI'], forecast)
+rmse = np.sqrt(mean_squared_error(test_data['NDVI'], forecast))
+r2 = 1 - (sum((test_data['NDVI'] - forecast) ** 2) / sum((test_data['NDVI'] - np.mean(test_data['NDVI'])) ** 2))
+
+print(f"MAE: {mae:.2f}")
+print(f"RMSE: {rmse:.2f}")
+print(f"R2: {r2:.2f}")
+
+plt.figure(figsize=(14, 6))
+plt.plot(df['Data'], df['NDVI'], label='NDVI (Real)')
+plt.plot(test_data['Data'], forecast, label='NDVI (Previsto)', linestyle='dashed', color='orange')
+plt.title('Série Temporal do NDVI com Previsões do ARIMA')
+plt.xlabel('Data')
+plt.ylabel('NDVI')
+plt.legend()
+plt.grid(True)
+
+for i, row in test_data.iterrows():
+    plt.annotate(f'{row["NDVI"]:.2f}', (row['Data'], row['NDVI']), textcoords="offset points", xytext=(0, 10), ha='center')
+
+plt.savefig('grafico_ndvi_7.png')
+
+# Salvar os resultados da série temporal em um arquivo JSON
+resultados_serie_temporal = {
+    'MAE': mae,
+    'RMSE': rmse,
+    'R2': r2,
+    'Previsao': list(forecast),
+    'DataTeste': list(test_data['Data'].astype(str)),  # Convertendo as datas para strings
+    'NDVIReal': list(test_data['NDVI'])
+}
+
+with open('/content/resultados_serie_temporal3.json', 'w') as json_file:
+    json.dump(resultados_serie_temporal, json_file)
+
+# Exibir o gráfico
+plt.tight_layout()
+plt.show()
+    
+ ```
+
+<img alt="arima" src="https://github.com/gabrieljssantos/bertoti/assets/48994698/db5d7ee3-65de-4481-8eb2-c2e9c5c1a9e8" width="70%" height="70%">
+
+
+ </details> 
 
 ## Aprendizados Efetivos ![Aprendizados efetivos](https://img.shields.io/badge/-Aprendizados%20Efetivos-blue)
 
