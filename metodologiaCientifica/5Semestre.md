@@ -40,7 +40,7 @@ Adicionalmente, foi construída uma API que funciona como o serviço responsáve
 
   <details> <summary> Mostrar mais </summary>
     <br>
-  1- Implementei o Grafana para monitoramento contínuo da aplicação. Configurei dashboards personalizados para acompanhar a performance e funcionalidade do sistema em tempo real. Essa ferramenta permitiu identificar rapidamente anomalias, agilizando as ações corretivas.
+  1- Implementei o Grafana para monitoramento em tempo real da aplicação, configurando dashboards para acompanhar a performance e desempenho do sistema em tempo real. Dessa forma, podemos identificar rapidamente anomalias, agilizando as ações corretivas.
     <img src="https://github.com/gabrieljssantos/bertoti/assets/48994698/41559113-450e-4169-a480-719eca38e263.png" width="90%" height="90%"/>
   </details>
   
