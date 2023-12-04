@@ -34,7 +34,7 @@ Adicionalmente, foi construída uma API que funciona como o serviço responsáve
 ## Contribuições pessoais ![Contribuições pessoais](https://img.shields.io/badge/-Contribui%C3%A7%C3%B5es%20Pessoais-blue)
 
 
-- Durante o projeto, concentrei meus esforços na área de dos, no controle e na criação dos dashboards, bem como no tratamento dos dados em geral. Minha responsabilidade incluiu também limpeza e formatação dos dados para que pudessem ser exibidos 
+- Durante o projeto, concentrei meus esforços na área de dados, no controle e na criação dos dashboards, bem como no tratamento dos dados em geral. Minha responsabilidade incluiu também limpeza e formatação dos dados para que pudessem ser exibidos 
 
 
 
